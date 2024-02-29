@@ -1,0 +1,6312 @@
+[
+    {
+      "ID": "1",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 4",
+      "CLUB": "CLUB SOCIAL Y DEPORTIVO MIRI�AQUE",
+      "CUIT": "30707405755",
+      "Email Club": "claudiocf08@hotmail.com",
+      "Calle": "LYNCH 3471",
+      "CP": "1437"
+    },
+    {
+      "ID": "2",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 7",
+      "CLUB": "ASOCIACION CIVIL CLUB ATLETICO MADRE DEL PUEBLO",
+      "CUIT": "30714302856",
+      "Email Club": "admin@madredelpueblo.org",
+      "Calle": "VILLA 1 11.14 1     M:3",
+      "CP": "1437"
+    },
+    {
+      "ID": "3",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 12",
+      "CLUB": "CLUB SOCIAL DEPORTIVO Y CULTURAL MARIANO MORENO",
+      "CUIT": "30680092989",
+      "Email Club": "info@clubmarianomoreno.org.ar",
+      "Calle": "FREIRE R. CAP. GRAL. 3151",
+      "CP": "1429"
+    },
+    {
+      "ID": "4",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 15",
+      "CLUB": "SHOLEM BUENOS AIRES ASOCIACION CIVIL, SOCIAL, CULTURAL, EDUCATIVA , DEPORTIVA Y RECREATIVA",
+      "CUIT": "30711334447",
+      "Email Club": "deportes@sholem.org.ar",
+      "Calle": "LAVALLEJA 180",
+      "CP": "1414"
+    },
+    {
+      "ID": "5",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 10",
+      "CLUB": "CLUB ATLETICO STENTOR",
+      "CUIT": "30702048091",
+      "Email Club": "clubstentor@yahoo.com.ar",
+      "Calle": "SARACHAGA 5634",
+      "CP": "1407"
+    },
+    {
+      "ID": "6",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 8",
+      "CLUB": "CLUB ATLETICO LUGANO",
+      "CUIT": "30683706406",
+      "Email Club": "clublugano@telecentro.com.ar",
+      "Calle": "CAFAYATE 4155",
+      "CP": "1439"
+    },
+    {
+      "ID": "7",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 4",
+      "CLUB": "DARLING TENNIS CLUB",
+      "CUIT": "30528052645",
+      "Email Club": "administracion@darlingtennisclub.org",
+      "Calle": "BRASIL 50",
+      "CP": "1063"
+    },
+    {
+      "ID": "8",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "SEMBRANDO FUTURO - CENTRO CULTURAL, SOCIAL Y DEPORTIVO",
+      "CUIT": "33714530459",
+      "Email Club": "sembrandofuturoasociacioncivil@gmail.com",
+      "Calle": "BALCARCE 774 PISO:PB DPTO:1",
+      "CP": "1064"
+    },
+    {
+      "ID": "9",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 3",
+      "CLUB": "ASOCIACION MUTUAL CASA DEL BOXEADOR",
+      "CUIT": "30544968463",
+      "Email Club": "casadelboxeador@gmail.com",
+      "Calle": "MITRE BARTOLOME 2020 PISO:2 DPTO:F",
+      "CP": "1039"
+    },
+    {
+      "ID": "10",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 4",
+      "CLUB": "ASOCIACION CULTURAL Y DEPORTIVA JUVENTUD DE LA NUEVA ERA",
+      "CUIT": "30702299124",
+      "Email Club": "diegograsiano@gmail.com",
+      "Calle": "VALLE J. J. GRAL 2972",
+      "CP": "1437"
+    },
+    {
+      "ID": "11",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 5",
+      "CLUB": "ASOCIACION CIVIL CLUB SOCIAL Y DEPORTIVO ESTRELLA DE BOEDO",
+      "CUIT": "30696059833",
+      "Email Club": "estrelladeboedo@yahoo.com.ar",
+      "Calle": "CONSTITUCION 4151",
+      "CP": "1254"
+    },
+    {
+      "ID": "12",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 6",
+      "CLUB": "CLUB PORTUGUES",
+      "CUIT": "30568231291",
+      "Email Club": "tesoreria.cpcaba@gmail.com",
+      "Calle": "GOYENA PEDRO AV. 1468",
+      "CP": "1406"
+    },
+    {
+      "ID": "13",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 6",
+      "CLUB": "CLUB GIMNASIO CHACABUCO",
+      "CUIT": "30630825802",
+      "Email Club": "clubgimnasiochacabuco@yahoo.com.ar",
+      "Calle": "MIRO 750",
+      "CP": "1406"
+    },
+    {
+      "ID": "14",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 6",
+      "CLUB": "CLUB SOCIAL CULTURAL Y DEPORTIVO HOMERO MANZI ASOCIACION CIVIL",
+      "CUIT": "30628705972",
+      "Email Club": "clubhomeromanzi@hotmail.com",
+      "Calle": "BEAUCHEF 1050",
+      "CP": "1424"
+    },
+    {
+      "ID": "15",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 7",
+      "CLUB": "ASOCIACION CIVIL SOCIEDAD DE FOMENTO Y CULTURA MALVINAS ARGENTINAS",
+      "CUIT": "30682741267",
+      "Email Club": "Joaquin.ribera@gmail.com",
+      "Calle": "PERON EVA AV. 1800",
+      "CP": "1406"
+    },
+    {
+      "ID": "16",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 8",
+      "CLUB": "LUGANO FOOT BALL CLUB, SOCIAL Y DEPORTIVO",
+      "CUIT": "30708635622",
+      "Email Club": "marycanon@hotmail.com",
+      "Calle": "DE LA TORRE LISANDRO 4640",
+      "CP": "1439"
+    },
+    {
+      "ID": "17",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 8",
+      "CLUB": "CLUB SOCIAL Y DEPORTIVO YUPANQUI",
+      "CUIT": "30678239921",
+      "Email Club": "monicasignore@hotmail.com",
+      "Calle": "GUAMINI 4512",
+      "CP": "1439"
+    },
+    {
+      "ID": "18",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 8",
+      "CLUB": "CLUB SOCIAL Y DEPORTIVO PAMPERO",
+      "CUIT": "30696656440",
+      "Email Club": "clubsocialydeportivopampero@gmail.com",
+      "Calle": "LARRAZABAL AV. 3033",
+      "CP": "1439"
+    },
+    {
+      "ID": "19",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 9",
+      "CLUB": "ASOCIACION VECINAL DE FOMENTO EDILICIO CULTURAL Y DEPORTIVO JOSE HERNANDEZ",
+      "CUIT": "33605414139",
+      "Email Club": "marielguillen@hotmail.com",
+      "Calle": "BRAGADO 5950",
+      "CP": "1440"
+    },
+    {
+      "ID": "20",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "",
+      "CLUB": "CLUB SOCIAL Y DEPORTIVO ARGENTINO",
+      "CUIT": "30656251499",
+      "Email Club": "joseernestobattafarano@hotmail.com",
+      "Calle": "ALBARI&#209;O 2253",
+      "CP": "1440"
+    },
+    {
+      "ID": "21",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 9",
+      "CLUB": "CLUB SOCIAL Y DEPORTIVO DEL BARRIO MARCELO T DE ALVEAR ALVEAR CLUB",
+      "CUIT": "30609749632",
+      "Email Club": "alvearclub@outlook.com",
+      "Calle": "RODO JOSE ENRIQUE 4190",
+      "CP": "1407"
+    },
+    {
+      "ID": "22",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 9",
+      "CLUB": "CLUB SOCIAL Y DEPORTIVO AMERICA DEL SUD",
+      "CUIT": "30595076370",
+      "Email Club": "infoamericadelsud@gmail.com",
+      "Calle": "BILBAO FRANCISCO 3760",
+      "CP": "1407"
+    },
+    {
+      "ID": "23",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 10",
+      "CLUB": "CLUB SOCIAL Y DEPORTIVO \"JORGE NEWBERY\"  DE VERSAILLES",
+      "CUIT": "30696658591",
+      "Email Club": "clubjorgenewbery@hotmail.com.ar",
+      "Calle": "IRIGOYEN 2050",
+      "CP": "1408"
+    },
+    {
+      "ID": "24",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 10",
+      "CLUB": "ASOC VECINAL DE FOMENTO LOS AMIGOS DE VILLA LURO Y BIBL PUBLICA JOSE M ESTRADA",
+      "CUIT": "30612477309",
+      "Email Club": "info@amigosdevillaluro.com.ar",
+      "Calle": "FALCON RAMON L CNEL 5176",
+      "CP": "1407"
+    },
+    {
+      "ID": "25",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 10",
+      "CLUB": "ASOCIACION MUTUAL ESLOVENA TRIGLAV AME TRIGLAV",
+      "CUIT": "33604928899",
+      "Email Club": "triglavbsas@yahoo.com.ar",
+      "Calle": "PORCEL DE PERALTA M. 1458",
+      "CP": "1408"
+    },
+    {
+      "ID": "26",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 10",
+      "CLUB": "CLUB SOCIAL Y DEPORTIVO MITRE",
+      "CUIT": "30690366424",
+      "Email Club": "clubmitre@hotmail.com",
+      "Calle": "SEGUROLA AV. 1332",
+      "CP": "1407"
+    },
+    {
+      "ID": "27",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 11",
+      "CLUB": "CLUB DE GIMNASIA Y ESGRIMA DE VELEZ SARSFIELD",
+      "CUIT": "30695521045",
+      "Email Club": "lorena@estudionline.com.ar",
+      "Calle": "GONZALEZ JOAQUIN V. 1511 PISO:PB",
+      "CP": "1407"
+    },
+    {
+      "ID": "28",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 11",
+      "CLUB": "KIMBERLEY ATLETICO CLUB",
+      "CUIT": "30685783890",
+      "Email Club": "mamatucut@hotmail.com",
+      "Calle": "GONZALEZ JOAQUIN 3238",
+      "CP": "1417"
+    },
+    {
+      "ID": "29",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 11",
+      "CLUB": "CLUB DE GIMNASIA Y ESGRIMA DE VILLADEL PARQUE",
+      "CUIT": "30526560910",
+      "Email Club": "administracion@clubgevp.com",
+      "Calle": "TINOGASTA 3455",
+      "CP": "1417"
+    },
+    {
+      "ID": "30",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 11",
+      "CLUB": "CLUB SOCIAL Y DEPORTIVO PACIFICO        BIBLIOTECA 12 DE OCTUBRE",
+      "CUIT": "30697670811",
+      "Email Club": "pugliesegonzalo@hotmail.com",
+      "Calle": "SANTO TOME 3823",
+      "CP": "1417"
+    },
+    {
+      "ID": "31",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 11",
+      "CLUB": "VILLA SAHORES ASOC DE FOMENTO V JUNCAL",
+      "CUIT": "30592521934",
+      "Email Club": "clubvillasahores@gmail.com",
+      "Calle": "SANTO TOME 2496",
+      "CP": "1417"
+    },
+    {
+      "ID": "32",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 11",
+      "CLUB": "ASOCIACION VECINAL VILLA GRAL MITRE, BIBLIOTECA POPULAR CIENCIA Y LABOR",
+      "CUIT": "30690403869",
+      "Email Club": "cienciaylabor@gmail.com",
+      "Calle": "DIAZ CESAR GRAL 2451",
+      "CP": "1416"
+    },
+    {
+      "ID": "33",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 12",
+      "CLUB": "CIRCULO DE VILLA DEVOTO",
+      "CUIT": "30527742303",
+      "Email Club": "info@circulovilladevoto.com.ar",
+      "Calle": "MORAN PEDRO 4151",
+      "CP": "1419"
+    },
+    {
+      "ID": "34",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 11",
+      "CLUB": "CLUB SOCIAL Y DEPORTIVO PARQUE",
+      "CUIT": "33677125409",
+      "Email Club": "clubsocialparque10@gmail.com",
+      "Calle": "SASTRE MARCOS 3268",
+      "CP": "1417"
+    },
+    {
+      "ID": "35",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 12",
+      "CLUB": "CLUB SOCIAL Y DEPORTIVO ESTUDIANTES DEL NORTE",
+      "CUIT": "30703093511",
+      "Email Club": "estudiantesdn@gmail.com",
+      "Calle": "HOLMBERG 4070",
+      "CP": "1430"
+    },
+    {
+      "ID": "36",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 12",
+      "CLUB": "CLUB CULTURAL Y DEPORTIVO 17 DE AGOSTO",
+      "CUIT": "30541845417",
+      "Email Club": "danbussrl@hotmail.com",
+      "Calle": "ALBARELLOS AV. 2935",
+      "CP": "1419"
+    },
+    {
+      "ID": "37",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 12",
+      "CLUB": "ASOCIACION CIVIL CLUB SOCIAL CULTURAL Y DEPORTIVO RIO DE LA PLATA",
+      "CUIT": "30703954401",
+      "Email Club": "aliciasuriano@gmail.com",
+      "Calle": "IBERA 5257",
+      "CP": "1431"
+    },
+    {
+      "ID": "38",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 12",
+      "CLUB": "CIRCULO GENERAL URQUIZA",
+      "CUIT": "30530687674",
+      "Email Club": "natatoriocgu@hotmail.com",
+      "Calle": "ROOSEVELT FRANKLIN D 5345",
+      "CP": "1431"
+    },
+    {
+      "ID": "39",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 12",
+      "CLUB": "FOMENTO DEPORTIVO Y CULTURAL VILLA CERINI ASOCIACION CIVIL",
+      "CUIT": "30659061348",
+      "Email Club": "villacerini@gmail.com",
+      "Calle": "ARIAS 4745",
+      "CP": "1430"
+    },
+    {
+      "ID": "40",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 13",
+      "CLUB": "CLUB DEPORTIVO Y SOCIAL COLEGIALES",
+      "CUIT": "30681781389",
+      "Email Club": "carlos.funes@hotmail.com.ar",
+      "Calle": "GARCIA TEODORO 2860",
+      "CP": "1426"
+    },
+    {
+      "ID": "41",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 14",
+      "CLUB": "BOCHIN CLUB ASOCIACION CIVIL",
+      "CUIT": "30690940171",
+      "Email Club": "clubelbochin@gmail.com",
+      "Calle": "ALVAREZ JULIAN 2355",
+      "CP": "1425"
+    },
+    {
+      "ID": "42",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 15",
+      "CLUB": "CLUB SOCIAL Y DEPORTIVO AGRONOMIA Y BIBLIOTECA WILIAM C MORRIS",
+      "CUIT": "30681735395",
+      "Email Club": "clubagronomiacentral@gmail.com",
+      "Calle": "BAUNESS 958",
+      "CP": "1427"
+    },
+    {
+      "ID": "43",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 15",
+      "CLUB": "CLUB ATLETICO LA PATERNAL ASOC CIVIL",
+      "CUIT": "30684934402",
+      "Email Club": "calapaternal@hotmail.com",
+      "Calle": "FRAG. PTE. SARMI 1951",
+      "CP": "1416"
+    },
+    {
+      "ID": "44",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 15",
+      "CLUB": "BIBLIOTECA GENERAL ARTIGAS",
+      "CUIT": "30677057536",
+      "Email Club": "pao-lf@hotmail.com",
+      "Calle": "NAVARRO 2544",
+      "CP": "1419"
+    },
+    {
+      "ID": "45",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 15",
+      "CLUB": "ASOCIACION CIVIL TIERRA TECHO Y TRABAJO",
+      "CUIT": "30702948912",
+      "Email Club": "asoc.civil.ttt@gmail.com",
+      "Calle": "NEWBERY JORGE 4860",
+      "CP": "1427"
+    },
+    {
+      "ID": "46",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 15",
+      "CLUB": "CLUB EL TALAR Y  ANEXO BIBLIOTECA BARTOLOME MITRE",
+      "CUIT": "30685744550",
+      "Email Club": "eltalarclubdebarrio@gmail.com",
+      "Calle": "NUEVA YORK 2960",
+      "CP": "1419"
+    },
+    {
+      "ID": "47",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 11",
+      "CLUB": "ASOCIACION MUTUALISTASOC CULT Y DEP     FENIX CLUB",
+      "CUIT": "33685827579",
+      "Email Club": "clubfenixdevoto@hotmail.com",
+      "Calle": "VALLEJOS 4516",
+      "CP": "1419"
+    },
+    {
+      "ID": "48",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 6",
+      "CLUB": "ASOCIACION CIVIL CLUB PRIMERO (PREMIER)",
+      "CUIT": "30708092998",
+      "Email Club": "clubpremier1938@gmail.com",
+      "Calle": "CAMPICHUELO 472",
+      "CP": "1405"
+    },
+    {
+      "ID": "49",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 12",
+      "CLUB": "CLUB SOCIAL Y DEPORTIVO EL TABANO ASOCIACION CIVIL",
+      "CUIT": "30708363770",
+      "Email Club": "tabanotangoclub@hotmail.com.ar",
+      "Calle": "NAON ROMULO AV. 3029",
+      "CP": "1430"
+    },
+    {
+      "ID": "50",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 7",
+      "CLUB": "INSTITUCION CULTURAL Y DEPORTIVA PEDRO ECHAGUE",
+      "CUIT": "30598453469",
+      "Email Club": "clubpedroechague@fibertel.com.ar",
+      "Calle": "PORTELA 836",
+      "CP": "1406"
+    },
+    {
+      "ID": "51",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "CLUB BEROMAMA ASOCIACION CIVIL",
+      "CUIT": "30700463938",
+      "Email Club": "secretariaclubberomama@gmail.com",
+      "Calle": "LAVALLE 1616 PISO:12 DPTO:B",
+      "CP": "1048"
+    },
+    {
+      "ID": "52",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 12",
+      "CLUB": "ASOCIACION URQUIZA TENIS CLUB",
+      "CUIT": "33557234999",
+      "Email Club": "alespi1@live.com",
+      "Calle": "CARACAS 4935",
+      "CP": "1419"
+    },
+    {
+      "ID": "53",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 15",
+      "CLUB": "ASOC VEC Y BIBLIOT POP GRAL BENITO NAZAR",
+      "CUIT": "30694584337",
+      "Email Club": "coordinacionbenitonazar@gmail.com",
+      "Calle": "ANTEZANA 340 PB",
+      "CP": "1414"
+    },
+    {
+      "ID": "54",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "ASOCIACION CLUB LOS CEDROS",
+      "CUIT": "30698032266",
+      "Email Club": "jmelicabe@hotmail.com",
+      "Calle": "VIAMONTE 1345 PISO:4 DPTO:H",
+      "CP": "1053"
+    },
+    {
+      "ID": "55",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 15",
+      "CLUB": "CLUB SOCIAL Y DEPORTIVO A�ASCO",
+      "CUIT": "30676049998",
+      "Email Club": "aclubsocialydeportivo@gmail.com",
+      "Calle": "RODRIGUEZ M. A. 2650",
+      "CP": "1416"
+    },
+    {
+      "ID": "56",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 6",
+      "CLUB": "CENTRO ZAMORANO CULTURAL RECREATIVO DEPORTIVO Y MUTUAL",
+      "CUIT": "30644142104",
+      "Email Club": "centrozamorano@fibertel.com.ar",
+      "Calle": "PASCO 1358",
+      "CP": "1251"
+    },
+    {
+      "ID": "57",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 10",
+      "CLUB": "CLUB ATLETICO VERSAILLES",
+      "CUIT": "30650854337",
+      "Email Club": "clubatleticoversailles@gmail.com",
+      "Calle": "ARREGUI 6750",
+      "CP": "1408"
+    },
+    {
+      "ID": "58",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 7",
+      "CLUB": "ASOCIACION ESPA�OLA DE SOCORROS MUTUOS DE SAN JOSE DE FLORES",
+      "CUIT": "30586093653",
+      "Email Club": "asociaciondeflores@gmail.com",
+      "Calle": "PEDERNERA 143",
+      "CP": "1406"
+    },
+    {
+      "ID": "59",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 8",
+      "CLUB": "CLUB ATLETICO VIRGEN INMACULADA",
+      "CUIT": "30715223275",
+      "Email Club": "clubatleticovirgeninmaculada04@gmail.com",
+      "Calle": "ACOSTA MARIANO 2333 PISO:PB",
+      "CP": "1407"
+    },
+    {
+      "ID": "60",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 8",
+      "CLUB": "LOMAS DE LUGANO SOCIAL CLUB",
+      "CUIT": "30661408126",
+      "Email Club": "pao.macias90@gmail.com",
+      "Calle": "SOMELLERA 5038",
+      "CP": "1439"
+    },
+    {
+      "ID": "61",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 14",
+      "CLUB": "CLUB SUIZO DE BUENOS AIRES",
+      "CUIT": "30506753828",
+      "Email Club": "clubsuizoar@yahoo.com.ar",
+      "Calle": "ALEM LEANDRO N. AV. 1074 PISO:10",
+      "CP": "1001"
+    },
+    {
+      "ID": "62",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "CENTRO ASTURIANO DE BS AIRES,  ASOCIACION DE SOCORRO MUTUO,  PREVISION,  BENEFICENCIA,  CULTURA,  RECREO Y DEPORTES",
+      "CUIT": "30545862863",
+      "Email Club": "asturiano475@gmail.com",
+      "Calle": "SOLIS 475",
+      "CP": "1078"
+    },
+    {
+      "ID": "63",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 5",
+      "CLUB": "ASOC CENTRO NAVARRO SIN FINES DE LUCRO",
+      "CUIT": "33555466019",
+      "Email Club": "centronavarroba@yahoo.com.ar",
+      "Calle": "MORENO 3682",
+      "CP": "1209"
+    },
+    {
+      "ID": "64",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "CLUB DE REMO TEUTONIA",
+      "CUIT": "30506747232",
+      "Email Club": "hector_3090@hotmail.com",
+      "Calle": "SAENZ PE#A R.PTE.AV. 651 PISO:03 DPTO:56",
+      "CP": "1035"
+    },
+    {
+      "ID": "65",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 15",
+      "CLUB": "ASOCIACION CIVIL LA CULTURA DEL BARRIO",
+      "CUIT": "30714974536",
+      "Email Club": "boxeo.lcdb@gmail.com",
+      "Calle": "MURILLO 957 PISO:0 DPTO:PB",
+      "CP": "1414"
+    },
+    {
+      "ID": "66",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 4",
+      "CLUB": "CLUB SOCIAL Y DEPORTIVO UNIDOS DE POMPEYA",
+      "CUIT": "30537361251",
+      "Email Club": "sikoprols@hotmail.com",
+      "Calle": "SAENZ AV. 871",
+      "CP": "1437"
+    },
+    {
+      "ID": "67",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 6",
+      "CLUB": "CENTRO BURGALES",
+      "CUIT": "30661308350",
+      "Email Club": "centroburgales@yahoo.com.ar",
+      "Calle": "RIVADAVIA AV. 5764",
+      "CP": "1406"
+    },
+    {
+      "ID": "68",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 4",
+      "CLUB": "CLUB DE REGATAS ALMIRANTE BROWN",
+      "CUIT": "30712546537",
+      "Email Club": "regatasalmirantebrown@gmail.com",
+      "Calle": "DEL VALLE IBERLUCEA 1257 PISO:PB",
+      "CP": "1160"
+    },
+    {
+      "ID": "69",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 10",
+      "CLUB": "FLORESTA RUGBY CLUB ASOCIACION CIVIL",
+      "CUIT": "30710663870",
+      "Email Club": "info@florestarugbyclub.com.ar",
+      "Calle": "ACOSTA MARIANO 828",
+      "CP": "1407"
+    },
+    {
+      "ID": "70",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 13",
+      "CLUB": "ASOCIACION DE DEPORTES RACIONALES",
+      "CUIT": "30527646975",
+      "Email Club": "deportesracionales@gmail.com",
+      "Calle": "OLLEROS AV. 1515",
+      "CP": "1426"
+    },
+    {
+      "ID": "71",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 2",
+      "CLUB": "CLUB ARGENTINO DE AJEDREZ",
+      "CUIT": "30527252144",
+      "Email Club": "deajedrezclubargentino@gmail.com",
+      "Calle": "PARAGUAY 1858",
+      "CP": "1121"
+    },
+    {
+      "ID": "72",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "CLUB PADRE CARLOS MUGICA ASOCIACION CIVIL",
+      "CUIT": "33715466959",
+      "Email Club": "clubpadremugica.ac@gmail.com",
+      "Calle": "VILLA 31  CASA NRO. 1",
+      "CP": "1004"
+    },
+    {
+      "ID": "73",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 6",
+      "CLUB": "SAN JOSE RUGBY CLUB ASOCIACION CIVIL",
+      "CUIT": "30708063971",
+      "Email Club": "secretaria@sanjoserugby.com.ar",
+      "Calle": "MORENO 2562 PISO:1 DPTO:L",
+      "CP": "1094"
+    },
+    {
+      "ID": "74",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 10",
+      "CLUB": "CLUB SOCIAL Y DEPORTIVO CERVANTES",
+      "CUIT": "30709506532",
+      "Email Club": "club_cervantes@yahoo.com.ar",
+      "Calle": "DIAZ CESAR GRAL 5131",
+      "CP": "1407"
+    },
+    {
+      "ID": "75",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 4",
+      "CLUB": "CLUB SOCIAL Y DEPORTIVO CRESPO JUNIORS",
+      "CUIT": "30641865954",
+      "Email Club": "clubcrespojuniors@hotmail.com",
+      "Calle": "TABARE 1931",
+      "CP": "1437"
+    },
+    {
+      "ID": "76",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 4",
+      "CLUB": "ASOCIACION CIVIL LA PODEROSA, INTEGRACION POR  LA EDUCACION POPULAR",
+      "CUIT": "30710958692",
+      "Email Club": "colectivolapoderosa@gmail.com",
+      "Calle": "CALLAO AV. 360 PISO:3 DPTO:314",
+      "CP": "1022"
+    },
+    {
+      "ID": "77",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 10",
+      "CLUB": "MANO A MANO ASOCIACION CIVIL",
+      "CUIT": "30708263946",
+      "Email Club": "lilianamontenegro123@hotmail.com",
+      "Calle": "BACACAY 3933",
+      "CP": "1407"
+    },
+    {
+      "ID": "78",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 7",
+      "CLUB": "CLUB SOCIAL Y DEPORTIVO AGUANTE 25",
+      "CUIT": "30716346745",
+      "Email Club": "asociacioncivil.aguante.2.5@gmail.com",
+      "Calle": "BONORINO ESTEBAN CNEL. 1959  DPTO:19   M:25",
+      "CP": "1406"
+    },
+    {
+      "ID": "79",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 14",
+      "CLUB": "CLUB SOCIAL Y DEPORTIVO MEDRANO PALERMO ASOCIACION CIVIL",
+      "CUIT": "30716384558",
+      "Email Club": "clubmedranopalermo@gmail.com",
+      "Calle": "BRAVO MARIO 1029 PISO:13 DPTO:B",
+      "CP": "1175"
+    },
+    {
+      "ID": "80",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 9",
+      "CLUB": "CLUB SOCIAL Y DEPORTIVO FLORESTA JUNIORS",
+      "CUIT": "30708884118",
+      "Email Club": "florestajuniors@gmail.com",
+      "Calle": "LAGUNA 734",
+      "CP": "1407"
+    },
+    {
+      "ID": "81",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 5",
+      "CLUB": "ASOCIACION PRO AYUDA A NO VIDENTES",
+      "CUIT": "33592381449",
+      "Email Club": "apanovi2@yahoo.com.ar",
+      "Calle": "BOEDO AV. 1174 PISO:PB",
+      "CP": "1239"
+    },
+    {
+      "ID": "82",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 7",
+      "CLUB": "\"AGUAFUERTES ASOCIACION CIVIL VECINAL PARA LA PARTICIPACION, EL DESARROLLO Y LA CULTURA, SIN FINES DE LUCRO\"",
+      "CUIT": "30709510637",
+      "Email Club": "leomilitello@yahoo.com",
+      "Calle": "PRIMERA JUNTA 2533",
+      "CP": "1406"
+    },
+    {
+      "ID": "83",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 4",
+      "CLUB": "CLUB SOCIAL CULTURAL  Y DEPORTIVO JUVENTUD Y ARMONIA ASOCIACION CIVIL",
+      "CUIT": "33715693289",
+      "Email Club": "marisa_mabel11@hotmail.com",
+      "Calle": "TABARE 1299",
+      "CP": "1437"
+    },
+    {
+      "ID": "84",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 15",
+      "CLUB": "SABER ASOC DE FOMENTO EDIFICIO AGRONOMIA Y BLIBLIOTECA POPULAR EL RESPLANDOR",
+      "CUIT": "30698785183",
+      "Email Club": "habagnato@gmail.com",
+      "Calle": "LLERENA 2727",
+      "CP": "1427"
+    },
+    {
+      "ID": "85",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 10",
+      "CLUB": "CLUB SOCIAL Y DEPORTIVO FEDERAL JUNIORS",
+      "CUIT": "30685734903",
+      "Email Club": "clubfederaljuniors@gmail.com",
+      "Calle": "SANABRIA 2125",
+      "CP": "1417"
+    },
+    {
+      "ID": "86",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 11",
+      "CLUB": "CLUB SOCIAL Y SPORTIVO DEVOTO",
+      "CUIT": "33708447019",
+      "Email Club": "cssportivodevoto@hotmail.com",
+      "Calle": "MISTRAL GABRIELA 3151",
+      "CP": "1419"
+    },
+    {
+      "ID": "87",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 13",
+      "CLUB": "CLUB NAUTICO BUCHARDO",
+      "CUIT": "30506746791",
+      "Email Club": "fcholakian@gmail.com",
+      "Calle": "RIVADAVIA M. CDRO. 1250",
+      "CP": "1429"
+    },
+    {
+      "ID": "88",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 5",
+      "CLUB": "CIRCULOS UNIDOS DON JUAN DE GARAY ODEON NEPTUNIA G O N",
+      "CUIT": "30696118384",
+      "Email Club": "circulosunidosgon@gmail.com",
+      "Calle": "PAVON 3918",
+      "CP": "1253"
+    },
+    {
+      "ID": "89",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 4",
+      "CLUB": "CLUB SOCIAL Y DEPORTIVO FRANJA DE ORO",
+      "CUIT": "30696107366",
+      "Email Club": "tesoreriafranjadeoro@gmail.com",
+      "Calle": "ALCORTA AMANCIO 3960",
+      "CP": "1437"
+    },
+    {
+      "ID": "90",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 6",
+      "CLUB": "CLUB OESTE",
+      "CUIT": "30531501035",
+      "Email Club": "cluboeste@hotmail.com",
+      "Calle": "MORENO JOSE MARIA AV 446",
+      "CP": "1424"
+    },
+    {
+      "ID": "91",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 5",
+      "CLUB": "ALMAGRO BOXING CLUB ASOCIACION CIVIL",
+      "CUIT": "30694456932",
+      "Email Club": "hairelias@gmail.com",
+      "Calle": "DIAZ VELEZ AV. 4422",
+      "CP": "1200"
+    },
+    {
+      "ID": "92",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "ASOCIACION CIVIL PARQUE TELMO",
+      "CUIT": "30682126430",
+      "Email Club": "diegomaximilianorivarola@gmail.com",
+      "Calle": "BOLIVAR 1224",
+      "CP": "1141"
+    },
+    {
+      "ID": "93",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 3",
+      "CLUB": "CIERVOS PAMPAS RUGBY CLUB ASOCIACION CIVIL",
+      "CUIT": "30715794965",
+      "Email Club": "presidencia@ciervospampas.org.ar",
+      "Calle": "PUEYRREDON AV. 443 PISO:8 DPTO:D",
+      "CP": "1032"
+    },
+    {
+      "ID": "94",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 11",
+      "CLUB": "CLUB SOCIAL Y DEPORTIVO Y BIBLIOTECA POPULAR IMPERIO JUNIORS",
+      "CUIT": "30555511880",
+      "Email Club": "info.clubimperiojuniors@gmail.com",
+      "Calle": "DIAZ CESAR GRAL 3047",
+      "CP": "1416"
+    },
+    {
+      "ID": "95",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 15",
+      "CLUB": "CLUB SOCIAL CULTURAL Y DEPORTIVO VILLA MODELO",
+      "CUIT": "30714612855",
+      "Email Club": "espositomariano0@gmail.com",
+      "Calle": "ARISMENDI 2682",
+      "CP": "1427"
+    },
+    {
+      "ID": "96",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 5",
+      "CLUB": "ASOCIACION CIVIL Y DEPORTIVA EL BARRIO",
+      "CUIT": "30708758635",
+      "Email Club": "rutvinacur@hotmail.com",
+      "Calle": "CONSTITUCION 4253",
+      "CP": "1254"
+    },
+    {
+      "ID": "97",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 4",
+      "CLUB": "CLUB SOCIAL Y DEPORTIVO RIACHUELO JUNIORS",
+      "CUIT": "30708754826",
+      "Email Club": "juanmgaraban@hotmail.com",
+      "Calle": "EINSTEIN ALBERTO 1022",
+      "CP": "1437"
+    },
+    {
+      "ID": "98",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 9",
+      "CLUB": "ASOCIACION CIVIL CLUB VILLAS UNIDAS",
+      "CUIT": "30716374455",
+      "Email Club": "paspardie@gmail.com",
+      "Calle": "COBO AV. 1780",
+      "CP": "1406"
+    },
+    {
+      "ID": "99",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 9",
+      "CLUB": "CLUB SOCIAL Y DEPORTIVO BRISAS DEL SUD",
+      "CUIT": "30678240563",
+      "Email Club": "dsmaioco@hotmail.com",
+      "Calle": "GUARDIA NACIONAL 1956",
+      "CP": "1440"
+    },
+    {
+      "ID": "100",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 9",
+      "CLUB": "UNION VECINAL Y CULTURAL CILDA�EZ",
+      "CUIT": "30710964161",
+      "Email Club": "fernandarizzo97@gmail.com",
+      "Calle": "AMEGHINO FLORENTINO 2047",
+      "CP": "1407"
+    },
+    {
+      "ID": "101",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 5",
+      "CLUB": "CLUB ALMAGRO",
+      "CUIT": "33531562009",
+      "Email Club": "presidencia@clubalmagro.com.ar",
+      "Calle": "MEDRANO PEDRO AV. 522",
+      "CP": "1179"
+    },
+    {
+      "ID": "102",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "CLUB CENTRO JUVENIL ASOCIACION CIVIL",
+      "CUIT": "30716355736",
+      "Email Club": "polisancristobal2015@gmail.com",
+      "Calle": "ENTRE RIOS AV. 1260",
+      "CP": "1133"
+    },
+    {
+      "ID": "103",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 11",
+      "CLUB": "CLUB SOCIAL CULTURAL DEPORTIVO Y BIBLIOTECA PEDRO LOZANO",
+      "CUIT": "30660135525",
+      "Email Club": "clubplozano@gmail.com",
+      "Calle": "GUALEGUAYCHU 2902",
+      "CP": "1417"
+    },
+    {
+      "ID": "104",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "CENTRO VASCO FRANCES",
+      "CUIT": "30528697050",
+      "Email Club": "cvfrances@gmail.com",
+      "Calle": "MORENO 1370",
+      "CP": "1091"
+    },
+    {
+      "ID": "105",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 9",
+      "CLUB": "CLUB SOCIAL Y DEPORTIVO SOL DE MAYO",
+      "CUIT": "30707906924",
+      "Email Club": "clubsoldemayomataderos@gmail.com",
+      "Calle": "OLIDEN 1935",
+      "CP": "1440"
+    },
+    {
+      "ID": "106",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 4",
+      "CLUB": "ASOCIACION CIVIL CLUB ATLETICO PIRA�A",
+      "CUIT": "30679204331",
+      "Email Club": "gabisangineti@gmail.com",
+      "Calle": "ELIA 678",
+      "CP": "1437"
+    },
+    {
+      "ID": "107",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 9",
+      "CLUB": "CLUB SOCIAL Y DEPORTIVO GLORIAS ARGENTINAS",
+      "CUIT": "30696650337",
+      "Email Club": "jsardo8588@gmail.com",
+      "Calle": "BRAGADO 6875",
+      "CP": "1440"
+    },
+    {
+      "ID": "108",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 10",
+      "CLUB": "CIRCULO SOCIAL HEBREO ARGENTINO",
+      "CUIT": "30575121787",
+      "Email Club": "informes@csha.org.ar",
+      "Calle": "AVELLANEDA AV. 3549",
+      "CP": "1407"
+    },
+    {
+      "ID": "109",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 10",
+      "CLUB": "ASOC VECINAL DE FOMENTO Y CENTRO SOCIAL Y CULTURAL DE VELEZ SARSFIELD NORTE",
+      "CUIT": "30676061319",
+      "Email Club": "asociacionveleznorte@gmail.com",
+      "Calle": "CARRASCO AV. 121",
+      "CP": "1407"
+    },
+    {
+      "ID": "110",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 8",
+      "CLUB": "SACACHISPAS FUTBOL CLUB",
+      "CUIT": "30690145525",
+      "Email Club": "sacachispasfc1948@gmail.com",
+      "Calle": "BARROS PAZOS JOSE 3702",
+      "CP": "1439"
+    },
+    {
+      "ID": "111",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 9",
+      "CLUB": "CLUB SOCIAL Y DEPORTIVO LIBERAL DE NUEVACHICAGO",
+      "CUIT": "30678301236",
+      "Email Club": "clubsocialydeportivoliberalok@gmail.com",
+      "Calle": "CARHUE 2877",
+      "CP": "1440"
+    },
+    {
+      "ID": "112",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "BANCO DE LA NACION ARGENTINA",
+      "CUIT": "30500010912",
+      "Email Club": "aguirremaryy78@gmail.com",
+      "Calle": "MITRE BARTOLOME 326 P4 D428",
+      "CP": "1036"
+    },
+    {
+      "ID": "113",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 15",
+      "CLUB": "LOS VIEJOS MUCHACHOS DE NEWELS          NEWELS OLDS BOYS",
+      "CUIT": "30698773622",
+      "Email Club": "clubnob@hotmail.com",
+      "Calle": "AVALOS 1036",
+      "CP": "1427"
+    },
+    {
+      "ID": "114",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 15",
+      "CLUB": "ASOCIACION DE FOMENTO FEDERICO LACROZE",
+      "CUIT": "30645029824",
+      "Email Club": "asocfomentofedericolacroze@gmail.com",
+      "Calle": "MAURE 3953",
+      "CP": "1427"
+    },
+    {
+      "ID": "115",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 15",
+      "CLUB": "CLUB SOCIAL Y DEPORTIVO EL TREBOL  Y BIBLIOTECA INDEPENDENCIA",
+      "CUIT": "30709190500",
+      "Email Club": "clubeltreboloficial@gmail.com",
+      "Calle": "GANDARA 2840",
+      "CP": "1431"
+    },
+    {
+      "ID": "116",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 5",
+      "CLUB": "ESCUELA DE TIRO CON ARCO ASOCIACION CIVIL",
+      "CUIT": "30715427644",
+      "Email Club": "escueladetiroconarco@gmail.com",
+      "Calle": "ALVAREZ JULIAN 2355",
+      "CP": "1425"
+    },
+    {
+      "ID": "117",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 9",
+      "CLUB": "CLUB SOCIAL CULTURAL Y DEPORTIVO LARRAZABAL",
+      "CUIT": "30708398884",
+      "Email Club": "larrazabalclubsocial@gmail.com",
+      "Calle": "LARRAZABAL AV. 829",
+      "CP": "1440"
+    },
+    {
+      "ID": "118",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 11",
+      "CLUB": "LIGA DE FOMENTO VILLA GENERAL MITRE Y BIBLIOTECA POPULAR MITRE",
+      "CUIT": "30685010395",
+      "Email Club": "gestoriasantillan@gmail.com",
+      "Calle": "GAVILAN 1540",
+      "CP": "1416"
+    },
+    {
+      "ID": "119",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 15",
+      "CLUB": "ASOCIACION VECINAL CIRCULO LA PATERNAL",
+      "CUIT": "30698752986",
+      "Email Club": "circulolapaternal@hotmail.com",
+      "Calle": "PAZ SOLDAN 5035",
+      "CP": "1427"
+    },
+    {
+      "ID": "120",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 12",
+      "CLUB": "ASOCIACION VECINAL DE SAAVEDRA Y BIBLIOTECA POPULAR 25 DE MAYO",
+      "CUIT": "30709065668",
+      "Email Club": "biblioteca25demayo@hotmail.com.ar",
+      "Calle": "BALBIN RICARDO 4221",
+      "CP": "1430"
+    },
+    {
+      "ID": "121",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 14",
+      "CLUB": "CLUB SOCIAL Y DEPORTIVO ESTRELLA DE MALDONADO",
+      "CUIT": "33682556779",
+      "Email Club": "estrellademaldonado@gmail.com",
+      "Calle": "JUSTO JUAN B AV. 1439",
+      "CP": "1414"
+    },
+    {
+      "ID": "122",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 14",
+      "CLUB": "ASOCIACION VECINAL EL ROSEDAL",
+      "CUIT": "30661097309",
+      "Email Club": "clubelrosedal@gmail.com",
+      "Calle": "CHENAUT I. GRAL. AV. 1940",
+      "CP": "1426"
+    },
+    {
+      "ID": "123",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 15",
+      "CLUB": "CLUB SOCIAL Y DEPORTIVO MORAN",
+      "CUIT": "30697728585",
+      "Email Club": "molcina@gmail.com",
+      "Calle": "MORAN PEDRO 2446",
+      "CP": "1419"
+    },
+    {
+      "ID": "124",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 7",
+      "CLUB": "ASOCIACION ATLETICO PRIMERA JUNTA",
+      "CUIT": "30684126098",
+      "Email Club": "camilan.helguera@gmail.com",
+      "Calle": "ZUVIRIA 250",
+      "CP": "1424"
+    },
+    {
+      "ID": "125",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 9",
+      "CLUB": "CLUB SOCIAL Y DEPORTIVO ERCILLA JUNIORS",
+      "CUIT": "30709397326",
+      "Email Club": "clubercilla@gmail.com",
+      "Calle": "DE LA TORRE LISANDRO 1190",
+      "CP": "1408"
+    },
+    {
+      "ID": "126",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 12",
+      "CLUB": "CIRCULO SOCIAL Y DEPORTIVO SIN RUMBO",
+      "CUIT": "30708786000",
+      "Email Club": "mmodula@live.com",
+      "Calle": "TAMBORINI JOSE P. 6157",
+      "CP": "1431"
+    },
+    {
+      "ID": "127",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 3",
+      "CLUB": "CENTRO INTEGRAL PARA EL FORTALECIMIENTO DE LOS DERECHOS COMUNITARIOS ASOCIACION CIVIL",
+      "CUIT": "30716081946",
+      "Email Club": "matias.frexas@gmail.com",
+      "Calle": "JUJUY AV. 545",
+      "CP": "1229"
+    },
+    {
+      "ID": "128",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 15",
+      "CLUB": "CLUB DE TIRO CON ARCO Y FLECHA HALCON PEREGRINO ASOCIACION CIVIL",
+      "CUIT": "30711113351",
+      "Email Club": "arqueria@elhalconperegrino.com.ar",
+      "Calle": "GODOY CRUZ 1731",
+      "CP": "1414"
+    },
+    {
+      "ID": "129",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 7",
+      "CLUB": "ASOCIACION CIVIL CONSTRUCCION COLECTIVA PARA EL DESARROLLO COMUNITARIO",
+      "CUIT": "30714544221",
+      "Email Club": "gabrielamartinez1969@gmail.com",
+      "Calle": "TACUARA 1364",
+      "CP": "1407"
+    },
+    {
+      "ID": "130",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 8",
+      "CLUB": "ASOCIACION CIVIL PADRES Y VECINOS DEL BARRIO GENERAL SAVIO",
+      "CUIT": "30707950850",
+      "Email Club": "padresyvecinosconsulta@outlook.com",
+      "Calle": "SOLDADO D.L.FRONTERA 5230 PISO:PB",
+      "CP": "1439"
+    },
+    {
+      "ID": "131",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 5",
+      "CLUB": "CIRCULO DE AJEDREZ TORRE BLANCA ASOCIA  CION CIVIL",
+      "CUIT": "30676018227",
+      "Email Club": "torreblanca.arg@gmail.com",
+      "Calle": "SANCHEZ DE BUSTAMANTE 587 PISO:PB DPTO:002",
+      "CP": "1173"
+    },
+    {
+      "ID": "132",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "LA NUESTRA FUTBOL FEMENINO ASOCIACION CIVIL",
+      "CUIT": "30714844829",
+      "Email Club": "lanuestrafutbolfemenino@gmail.com",
+      "Calle": "COLOMBRES 1765 PISO:D",
+      "CP": "1238"
+    },
+    {
+      "ID": "133",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 5",
+      "CLUB": "ASOCIACION CIVIL DEPORTIVO ARMENIO",
+      "CUIT": "30653296149",
+      "Email Club": "prensaarmenio@gmail.com",
+      "Calle": "LIBERTAD 150 PISO:1",
+      "CP": "1012"
+    },
+    {
+      "ID": "134",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 10",
+      "CLUB": "LA CATEDRAL FUTBOL CLUB ASOCIACION CIVIL",
+      "CUIT": "30715317415",
+      "Email Club": "ruthromero849@gmail.com",
+      "Calle": "SAN MARTIN 575 PISO:6 DPTO:C",
+      "CP": "1004"
+    },
+    {
+      "ID": "135",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 5",
+      "CLUB": "FUNDACION NUEVA GENERACION DEL DEPORTE",
+      "CUIT": "30702292197",
+      "Email Club": "fnvagcion@gmail.com",
+      "Calle": "BOCAYUVA QUINTIN 1241",
+      "CP": "1257"
+    },
+    {
+      "ID": "136",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 5",
+      "CLUB": "ASOCIACION CIVIL DE VECINOS FLORENTINO AMEGHINO",
+      "CUIT": "30710845391",
+      "Email Club": "soydeavefa85@gmail.com",
+      "Calle": "INDEPENDENCIA AV. 4264",
+      "CP": "1226"
+    },
+    {
+      "ID": "137",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 6",
+      "CLUB": "CLUB ITALIANO ASOCIACION CIVIL",
+      "CUIT": "30526429822",
+      "Email Club": "gerenciaop@clubitaliano.com.ar",
+      "Calle": "RIVADAVIA AV. 4731",
+      "CP": "1424"
+    },
+    {
+      "ID": "138",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 6",
+      "CLUB": "CLUB FERRO CARRIL OESTE",
+      "CUIT": "30527417267",
+      "Email Club": "illanesalexander7@gmail.com",
+      "Calle": "GARCIA LORCA FEDERIC 350",
+      "CP": "1405"
+    },
+    {
+      "ID": "139",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 6",
+      "CLUB": "CULB SOCIAL Y DEPORTIVO \" CABALLITO JUNIORS\"",
+      "CUIT": "30677346236",
+      "Email Club": "caballito566@hotmail.com",
+      "Calle": "ORO&#209;O NICASIO 566",
+      "CP": "1405"
+    },
+    {
+      "ID": "140",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 7",
+      "CLUB": "FEDERACION CABALLITO",
+      "CUIT": "30652814596",
+      "Email Club": "federacion_caballito@yahoo.com.ar",
+      "Calle": "LA PLATA AV. 1125",
+      "CP": "1250"
+    },
+    {
+      "ID": "141",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 7",
+      "CLUB": "MUTUAL CENTRO SOCIAL Y CULTURAL FLORES SUR",
+      "CUIT": "30714199435",
+      "Email Club": "csycfloressur@gmail.com",
+      "Calle": "PILLADO 1076",
+      "CP": "1406"
+    },
+    {
+      "ID": "142",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 7",
+      "CLUB": "ASOCIACION MUTUAL VEINTE FLORES LIMITADA",
+      "CUIT": "30716233932",
+      "Email Club": "nicolaslovarvo@gmail.com",
+      "Calle": "AVELLANEDA AV. 2177",
+      "CP": "1406"
+    },
+    {
+      "ID": "143",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 7",
+      "CLUB": "ASOCIACION VECINAL DEPORTIVO BUENOS AIRES",
+      "CUIT": "30687680541",
+      "Email Club": "ana.valentina.quintana@gmail.com",
+      "Calle": "PEDERNERA 939",
+      "CP": "1406"
+    },
+    {
+      "ID": "144",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 8",
+      "CLUB": "DEPORTIVO RIESTRA ASOCIACION DE FOMENTO BARRIO COLON",
+      "CUIT": "30679174572",
+      "Email Club": "deportivoriestraoficial@gmail.com",
+      "Calle": "JANER ANA MARIA 2651",
+      "CP": "1437"
+    },
+    {
+      "ID": "145",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 8",
+      "CLUB": "CLUB ATLETICO VIRGEN DEL CARMEN",
+      "CUIT": "30715112473",
+      "Email Club": "padretongads@gmail.com",
+      "Calle": "PERON EVA AV. 6378  DPTO:1   M:8",
+      "CP": "1439"
+    },
+    {
+      "ID": "146",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 9",
+      "CLUB": "CLUB ATLETICO NUEVA CHICAGO",
+      "CUIT": "30556303025",
+      "Email Club": "rinstitucionaleschicago@gmail.com",
+      "Calle": "DE LA TORRE LISANDRO 2288",
+      "CP": "1440"
+    },
+    {
+      "ID": "147",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 10",
+      "CLUB": "CLUB ATLETICO ALL BOYS",
+      "CUIT": "30532438493",
+      "Email Club": "pato_diego@hotmail.com",
+      "Calle": "MERCEDES 1951",
+      "CP": "1407"
+    },
+    {
+      "ID": "148",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 10",
+      "CLUB": "CLUB SOCIAL Y DEPORTIVO JUVENTUD",
+      "CUIT": "30703941571",
+      "Email Club": "juventudclub2@gmail.com",
+      "Calle": "BERMUDEZ 2366",
+      "CP": "1417"
+    },
+    {
+      "ID": "149",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 10",
+      "CLUB": "CLUB SOCIAL Y DEPORTIVO VILLA REAL",
+      "CUIT": "30696709307",
+      "Email Club": "pinohernandez56@hotmail.com",
+      "Calle": "TINOGASTA 5739",
+      "CP": "1408"
+    },
+    {
+      "ID": "150",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 10",
+      "CLUB": "C.A.N.B.A CLUB ATLETICO NUESTRO BUENOS AIRES",
+      "CUIT": "30709247561",
+      "Email Club": "nelsonboniface@hotmail.com",
+      "Calle": "SAN BLAS 4577",
+      "CP": "1407"
+    },
+    {
+      "ID": "151",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 11",
+      "CLUB": "CLUB ATLETIICO GENERAL LAMADRID",
+      "CUIT": "30551009773",
+      "Email Club": "caglamadrid1950@gmail.com",
+      "Calle": "DESAGUADERO 3120",
+      "CP": "1417"
+    },
+    {
+      "ID": "152",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 11",
+      "CLUB": "CLUB ATLETICO ESTUDIANTES",
+      "CUIT": "30550868535",
+      "Email Club": "caestudiantes@yahoo.com.ar",
+      "Calle": "BEIRO FRANCISCO AV. 5175",
+      "CP": "1419"
+    },
+    {
+      "ID": "153",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 12",
+      "CLUB": "SUNDERLAND CLUB",
+      "CUIT": "30658082708",
+      "Email Club": "ricardomastrangelo@outlook.com",
+      "Calle": "LUGONES 3161",
+      "CP": "1430"
+    },
+    {
+      "ID": "154",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 12",
+      "CLUB": "CENTRO DE IDEAS PARA BUENOS AIRES",
+      "CUIT": "30710455712",
+      "Email Club": "ciba.ong@gmail.com",
+      "Calle": "POSTA 4454",
+      "CP": "1430"
+    },
+    {
+      "ID": "155",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 12",
+      "CLUB": "ASOCIACION CULTURAL Y DEPORTIVA ESTRELLA",
+      "CUIT": "30712518061",
+      "Email Club": "clubsydestrella@hotmail.com",
+      "Calle": "SUPERI 4437 PISO:PB",
+      "CP": "1430"
+    },
+    {
+      "ID": "156",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 13",
+      "CLUB": "CLUB ATLETICO DEFENSORES DE BELGRANO",
+      "CUIT": "30536486441",
+      "Email Club": "defeclubesenobras@gmail.com",
+      "Calle": "RIVADAVIA M. CDRO. 1450",
+      "CP": "1429"
+    },
+    {
+      "ID": "157",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 14",
+      "CLUB": "UNION GENERAL ARMENIA DE CULTURA FISICA",
+      "CUIT": "30532308638",
+      "Email Club": "info@homenetmen.com.ar",
+      "Calle": "ARMENIA 1366",
+      "CP": "1414"
+    },
+    {
+      "ID": "158",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 15",
+      "CLUB": "CLUB COMUNICACIONES",
+      "CUIT": "30527751108",
+      "Email Club": "deportes@clubcomunicaciones.com.ar",
+      "Calle": "SAN MARTIN AV. 5125",
+      "CP": "1417"
+    },
+    {
+      "ID": "159",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 15",
+      "CLUB": "CLUB ARQUITECTURA",
+      "CUIT": "30530309688",
+      "Email Club": "jesica@clubarquitectura.com.ar",
+      "Calle": "BEIRO FRANCISCO AV. 2116",
+      "CP": "1419"
+    },
+    {
+      "ID": "160",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 4",
+      "CLUB": "CENTRO COMUNITARIO LOS PIBES ASOCIACION CIVIL",
+      "CUIT": "30699731451",
+      "Email Club": "leandrotorta@hotmail.com",
+      "Calle": "SUAREZ 421",
+      "CP": "1162"
+    },
+    {
+      "ID": "161",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 15",
+      "CLUB": "SPORTING SOCIAL CLUB INSTITUCION CIVIL",
+      "CUIT": "30702988175",
+      "Email Club": "clubsporting@fibertel.com.ar",
+      "Calle": "HEREDIA 1253",
+      "CP": "1427"
+    },
+    {
+      "ID": "162",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 4",
+      "CLUB": "ASOCIACION CIVIL CAACUPE CLUB",
+      "CUIT": "30716921472",
+      "Email Club": "caacupeclubsomosfamilia@gmail.com",
+      "Calle": "CRUZ OSVALDO 3470",
+      "CP": "1437"
+    },
+    {
+      "ID": "163",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 10",
+      "CLUB": "ASOCIACION VECINAL VILLA LURO NORTE BIB LIOTECA POPULAR",
+      "CUIT": "30685009370",
+      "Email Club": "clubvillaluronorte@hotmail.com.ar",
+      "Calle": "GONZALEZ ELPIDIO 5445",
+      "CP": "1407"
+    },
+    {
+      "ID": "164",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "ASOCIACION DEL SUR RUGBY & HOCKEY CLUB",
+      "CUIT": "33709113939",
+      "Email Club": "clubdelsurgestion@gmail.com",
+      "Calle": "SAENZ PE&#209;A R. PTE. AV. 875 PISO:4 DPTO:K",
+      "CP": "1035"
+    },
+    {
+      "ID": "165",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 11",
+      "CLUB": "ASOCIACION VECINAL DE FOMENTO Y CULTURA CORPORACION MITRE",
+      "CUIT": "30715713086",
+      "Email Club": "vecinaldefomentoyculturamitre@gmail.com",
+      "Calle": "ALVAREZ JONTE AV. 3176",
+      "CP": "1416"
+    },
+    {
+      "ID": "166",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "FUNDACION PIA AUTONOMA DE DERECHO PONTIFICIO  SCHOLAS OCCURRENTES",
+      "CUIT": "30714487260",
+      "Email Club": "laura.lombardo@scholasoccurrentes.org",
+      "Calle": "VILLA 31  CASA NRO. 125  DPTO:BIS   M:104",
+      "CP": "1004"
+    },
+    {
+      "ID": "167",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 11",
+      "CLUB": "CENTRO CULTURAL RESURGIMIENTO ASOCIACION CIVIL",
+      "CUIT": "30709044245",
+      "Email Club": "ccresurgimiento.asociacioncivil@gmail.com",
+      "Calle": "ARTIGAS JOSE G. 2262",
+      "CP": "1416"
+    },
+    {
+      "ID": "168",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 12",
+      "CLUB": "CIRCULO PENACHO AZUL, CULTURAL, SOCIAL Y DEPORTIVO",
+      "CUIT": "30707860835",
+      "Email Club": "julietav068@gmail.com",
+      "Calle": "TAMBORINI JOSE P. 5658",
+      "CP": "1431"
+    },
+    {
+      "ID": "169",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 9",
+      "CLUB": "ASOCIACION DE FOMENTO SANTIAGO DE LINIERS Y BIBLIOTECA POPULAR DEMOCRACIA Y PROG",
+      "CUIT": "30661426892",
+      "Email Club": "jjberto51@gmail.com",
+      "Calle": "CAAGUAZU 6151",
+      "CP": "1408"
+    },
+    {
+      "ID": "170",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 4",
+      "CLUB": "EL CLUB SOCIAL CULTURAL Y DEPORTIVO CHARRUA",
+      "CUIT": "30709006467",
+      "Email Club": "clubcharruaoficial@gmail.com",
+      "Calle": "CHARRUA 3536",
+      "CP": "1437"
+    },
+    {
+      "ID": "171",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 9",
+      "CLUB": "CENTRO CULTURAL TORINO ARGENTINO ASOCIACION CIVIL",
+      "CUIT": "30716736616",
+      "Email Club": "socialtorinoargentino3@gmail.com",
+      "Calle": "MIRALLA 407",
+      "CP": "1408"
+    },
+    {
+      "ID": "172",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 9",
+      "CLUB": "CLUB SOCIAL CULTURAL Y DEPORTIVO BRISAS DE LINIERS",
+      "CUIT": "30683687975",
+      "Email Club": "clubbrisadeliniers@gmail.com",
+      "Calle": "MONTIEL 1382",
+      "CP": "1408"
+    },
+    {
+      "ID": "173",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 11",
+      "CLUB": "CLUB ATLETICO Y SOCIAL HABANA",
+      "CUIT": "30709923443",
+      "Email Club": "fernandez.gaston@hotmail.com",
+      "Calle": "LASTRA AV. 4175",
+      "CP": "1419"
+    },
+    {
+      "ID": "174",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 13",
+      "CLUB": "CLUB ATLETICO OBRAS SANITARIAS DE LA NACION",
+      "CUIT": "30526749126",
+      "Email Club": "pdelego@gmail.com",
+      "Calle": "LIBERTADOR DEL A 7395",
+      "CP": "1429"
+    },
+    {
+      "ID": "175",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 8",
+      "CLUB": "CLUB SOCIAL Y CULTURAL DOMINGO F SARMIENTO",
+      "CUIT": "30696087918",
+      "Email Club": "cdfs@hotmail.com",
+      "Calle": "RABANAL FRANCISC 2375 PB",
+      "CP": "1437"
+    },
+    {
+      "ID": "176",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 7",
+      "CLUB": "FEDERACION DEPORTIVA DE BUENOS AIRES FE DE BA",
+      "CUIT": "30677877193",
+      "Email Club": "jugando@fedeba.org.ar",
+      "Calle": "CALIFORNIA 2421",
+      "CP": "1289"
+    },
+    {
+      "ID": "177",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 12",
+      "CLUB": "ASOCIACION VECINAL VILLA URQUIZA NOR-OESTE Y CLUB ATLETICO CALIFORNIA",
+      "CUIT": "30710009178",
+      "Email Club": "vivi.68@hotmail.com",
+      "Calle": "ANDONAEGUI 3347",
+      "CP": "1431"
+    },
+    {
+      "ID": "178",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 7",
+      "CLUB": "CLUB SOCIAL Y DEPORTIVO TELEGRAFO Y CRISOL UNIDOS",
+      "CUIT": "30707121218",
+      "Email Club": "juan.garda@estudiogarda.com",
+      "Calle": "SARAZA 951",
+      "CP": "1424"
+    },
+    {
+      "ID": "179",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 8",
+      "CLUB": "ASOCIACION CULTURAL SOCIAL Y DEPORTIVA  EL IDEAL",
+      "CUIT": "30696710879",
+      "Email Club": "elidealmail@gmail.com",
+      "Calle": "MONTIEL 5142",
+      "CP": "1439"
+    },
+    {
+      "ID": "180",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "CLUB ATLETICO SAN TELMO",
+      "CUIT": "30529803563",
+      "Email Club": "secretariacast@gmail.com",
+      "Calle": "PERU 1360",
+      "CP": "1141"
+    },
+    {
+      "ID": "181",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 7",
+      "CLUB": "ASOCIACION CIVIL FEINCO FLORES POR EL DEPORTE, EL ENCUENTRO Y LA INCLUSION COMUNITARIA",
+      "CUIT": "30716957906",
+      "Email Club": "gabrielamartinez1969@gmail.com",
+      "Calle": "BONORINO ESTEBAN CNEL. 897",
+      "CP": "1406"
+    },
+    {
+      "ID": "182",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 5",
+      "CLUB": "COLEGIO SAN ANTONIO",
+      "CUIT": "30679160342",
+      "Email Club": "ftirelli@donbosco.org.ar",
+      "Calle": "MEXICO 4050",
+      "CP": "1223"
+    },
+    {
+      "ID": "183",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 4",
+      "CLUB": "ASOCIACION CIVIL ATLETICO SAN ANTONIO",
+      "CUIT": "30716155702",
+      "Email Club": "cheinmans@gmail.com",
+      "Calle": "CAFAYATE 5218 PISO:1 DPTO:C",
+      "CP": "1439"
+    },
+    {
+      "ID": "184",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 5",
+      "CLUB": "LIGA ARGENTINA DE TAEKWONDO",
+      "CUIT": "30716943034",
+      "Email Club": "leandro@wbauditores.com",
+      "Calle": "AGRELO 3356",
+      "CP": "1224"
+    },
+    {
+      "ID": "185",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 15",
+      "CLUB": "ASOCIACION DE TAE KWON DO VILLA CRESPO ASOCIACION CIVIL",
+      "CUIT": "30716309270",
+      "Email Club": "leandro@wbauditores.com",
+      "Calle": "THAMES 965 PISO:PB DPTO:4",
+      "CP": "1414"
+    },
+    {
+      "ID": "186",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 9",
+      "CLUB": "ASOCIACION DE FOMENTO EDILICIO Y CULTURAL CORONEL CARDENAS",
+      "CUIT": "30717111571",
+      "Email Club": "coronelcardenas@hotmail.com",
+      "Calle": "CARDENAS CNEL AV 2920",
+      "CP": "1440"
+    },
+    {
+      "ID": "187",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 12",
+      "CLUB": "FEDERACION DEL DEPORTE UNIVERSITARIO ARGENTINO",
+      "CUIT": "30714687146",
+      "Email Club": "emilianogordin@gmail.com",
+      "Calle": "LARRALDE CRISOLOGO 1050",
+      "CP": "1429"
+    },
+    {
+      "ID": "188",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 7",
+      "CLUB": "ASOCIACION VECINAL DE FOMENTO MIRAFLORES VILLA",
+      "CUIT": "30715775332",
+      "Email Club": "asocvillamiraflores@gmail.com",
+      "Calle": "COBO AV. 1780",
+      "CP": "1406"
+    },
+    {
+      "ID": "189",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 4",
+      "CLUB": "CLUB SOCIAL CULTURAL Y DEPORTIVO SAN ANTONIO",
+      "CUIT": "33699690509",
+      "Email Club": "stellamsegui@gmail.com",
+      "Calle": "SANTA MAGDALENA 413",
+      "CP": "1277"
+    },
+    {
+      "ID": "190",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 8",
+      "CLUB": "LIGA AMATEUR DE FUTBOL DE FLORES        ASOCIACION CIVIL",
+      "CUIT": "30655983399",
+      "Email Club": "ligaamateurfutbolflores@gmail.com",
+      "Calle": "CASTA&#209;ARES AV. 4125",
+      "CP": "1407"
+    },
+    {
+      "ID": "191",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 9",
+      "CLUB": "CLUB SOCIAL Y CULTURAL GENERAL SAN MARTIN",
+      "CUIT": "30678265027",
+      "Email Club": "clubgralsanmartin956@gmail.com",
+      "Calle": "OLIDEN 956",
+      "CP": "1408"
+    },
+    {
+      "ID": "192",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 14",
+      "CLUB": "ASOCIACION CULTURAL ARMENIA",
+      "CUIT": "30544000612",
+      "Email Club": "info@acaculturalarmenia.org.ar",
+      "Calle": "ARMENIA 1366",
+      "CP": "1414"
+    },
+    {
+      "ID": "193",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 12",
+      "CLUB": "ASOCIACION CIVIL CENTRO COMUNITARIO BARRIO MITRE",
+      "CUIT": "30709608262",
+      "Email Club": "margaritazubizarreta@yahoo.com.ar",
+      "Calle": "CORREA 3930",
+      "CP": "1430"
+    },
+    {
+      "ID": "194",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 7",
+      "CLUB": "ASOCIACION MUTUAL FUTBOLISTAS SOLIDARIOS",
+      "CUIT": "30708347201",
+      "Email Club": "gallardojp@hotmail.com",
+      "Calle": "CULPINA 1055",
+      "CP": "1406"
+    },
+    {
+      "ID": "195",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 7",
+      "CLUB": "ASOCIACION CIVIL C S C Y D ESTRADA DE   ALMAGRO",
+      "CUIT": "30692851982",
+      "Email Club": "estradadealmagro@hotmail.com",
+      "Calle": "TEJEDOR 867",
+      "CP": "1424"
+    },
+    {
+      "ID": "196",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 3",
+      "CLUB": "ASOCIACION CENTRO BETANZOS",
+      "CUIT": "30649512031",
+      "Email Club": "lucasmejia86@gmail.com",
+      "Calle": "VENEZUELA 1534",
+      "CP": "1095"
+    },
+    {
+      "ID": "197",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 13",
+      "CLUB": "CLUB ATLETICO ATLAS",
+      "CUIT": "30682618740",
+      "Email Club": "maxiaambrosio@gmail.com",
+      "Calle": "GUEVARA 140",
+      "CP": "1427"
+    },
+    {
+      "ID": "198",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 8",
+      "CLUB": "\" CLUB ARGENTINO DE KARTING ASOCIACION  CIVIL \"",
+      "CUIT": "30708537132",
+      "Email Club": "kartodromobuenosaires@gmail.com",
+      "Calle": "PAZ GRAL AV. 17400",
+      "CP": "1439"
+    },
+    {
+      "ID": "199",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "FEDERACION ARGENTINA DE PATO",
+      "CUIT": "30601390740",
+      "Email Club": "administracion@pato.org.ar",
+      "Calle": "RIVADAVIA AV. 717 PISO:7 DPTO:704",
+      "CP": "1002"
+    },
+    {
+      "ID": "200",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 8",
+      "CLUB": "CLUB SOCIAL Y DEPORTIVO ALBARINO",
+      "CUIT": "30649256914",
+      "Email Club": "asociacioncivilamarteargentina@gmail.com",
+      "Calle": "SANTANDER 4936",
+      "CP": "1439"
+    },
+    {
+      "ID": "201",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 4",
+      "CLUB": "CLUB ATLETICO HURACAN",
+      "CUIT": "30526231364",
+      "Email Club": "secretaria@cahuracan.com",
+      "Calle": "CASEROS AV. 3159 PISO:1",
+      "CP": "1263"
+    },
+    {
+      "ID": "202",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 4",
+      "CLUB": "CLUB ATLETICO DEPORTIVO PARAGUAYO",
+      "CUIT": "30657226730",
+      "Email Club": "deportivoparaguayotesoreria@gmail.com",
+      "Calle": "PIEDRAS 1676 PISO:PB",
+      "CP": "1140"
+    },
+    {
+      "ID": "203",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 14",
+      "CLUB": "CLUB DE GIMNASIA Y ESGRIMA",
+      "CUIT": "30528185858",
+      "Email Club": "secretaria@geba.org.ar",
+      "Calle": "MITRE BARTOLOME 1165 PISO:02",
+      "CP": "1036"
+    },
+    {
+      "ID": "204",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "ASOCIACION CIVIL CENTRO CRECER",
+      "CUIT": "30716900343",
+      "Email Club": "admin@centrocrecer.ar",
+      "Calle": "ESTADOS UNIDOS 1273",
+      "CP": "1101"
+    },
+    {
+      "ID": "205",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 3",
+      "CLUB": "CIRCULO SOCIAL Y DEPORTIVO DEL ONCE",
+      "CUIT": "30663223778",
+      "Email Club": "enriquekikediaz@gmail.com",
+      "Calle": "MORENO 2583",
+      "CP": "1094"
+    },
+    {
+      "ID": "206",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "ASOCIACION OPTIMIST ARGENTINA",
+      "CUIT": "30682939415",
+      "Email Club": "ana.nauticoj@gmail.com",
+      "Calle": "VENEZUELA 110 PISO:12 DPTO:A",
+      "CP": "1095"
+    },
+    {
+      "ID": "207",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 9",
+      "CLUB": "CLUB DEL PERSONAL DE DIRECCION DEL FERROCARRIL DOMINGO F  SARMIENTO",
+      "CUIT": "30696728514",
+      "Email Club": "clubferrocarrildfs@gmail.com",
+      "Calle": "RESERVISTAS ARGE 219",
+      "CP": "1408"
+    },
+    {
+      "ID": "208",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "CLUB DE REGATAS AMERICA",
+      "CUIT": "30506752902",
+      "Email Club": "clubregatasamerica@yahoo.com.ar",
+      "Calle": "PERU 367 PISO:12 DPTO:A",
+      "CP": "1067"
+    },
+    {
+      "ID": "209",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 15",
+      "CLUB": "ASOCIACION DE FOMENTO PARQUE CHAS, CULTURAL, SOCIAL Y DEPORTIVA",
+      "CUIT": "30710435290",
+      "Email Club": "nestortogneri@gmail.com",
+      "Calle": "BAUNESS 1486",
+      "CP": "1431"
+    },
+    {
+      "ID": "210",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "ASOCIACIN CIVIL CLUB SOCIAL, CULTURAL Y DEPORTIVO RODRIGO BUENO",
+      "CUIT": "30715524569",
+      "Email Club": "clubrodrigobueno@gmail.com",
+      "Calle": "ESPA&#209;A AV. 1800  DPTO:26   M:01",
+      "CP": "1107"
+    },
+    {
+      "ID": "211",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "TIGRE SAILING CLUB",
+      "CUIT": "30506755359",
+      "Email Club": "carloshmicelli@hotmail.com",
+      "Calle": "PELLEGRINI CARLOS 27 PISO:4 DPTO:M",
+      "CP": "1009"
+    },
+    {
+      "ID": "212",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 5",
+      "CLUB": "CLUB NAUTICO HACOAJ",
+      "CUIT": "30506739736",
+      "Email Club": "ajenik@hacoaj.org.ar",
+      "Calle": "ESTADO DE ISRAEL AV. 4156",
+      "CP": "1185"
+    },
+    {
+      "ID": "213",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 3",
+      "CLUB": "CENTRO COMUNITARIO GUESHER",
+      "CUIT": "30708759550",
+      "Email Club": "alteomonica@yahoo.com.ar",
+      "Calle": "PERON JUAN TTE.GRAL. 1878",
+      "CP": "1040"
+    },
+    {
+      "ID": "214",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 7",
+      "CLUB": "CLUB DAOM",
+      "CUIT": "30552780368",
+      "Email Club": "espinalfabio@hotmail.com",
+      "Calle": "VARELA AV. 1802",
+      "CP": "1406"
+    },
+    {
+      "ID": "215",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "LUJ�N DE CUYO",
+      "CLUB": "",
+      "CUIT": "3062962124",
+      "Email Club": "alba.manas@hotmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "216",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 9",
+      "CLUB": "ASOCIACION DE FOMENTO Y BIBLIOTECA POPULAR MARIANO ACOSTA",
+      "CUIT": "30710801092",
+      "Email Club": "nicafa159@yahoo.com.ar",
+      "Calle": "ACOSTA MARIANO 1544",
+      "CP": "1407"
+    },
+    {
+      "ID": "217",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 15",
+      "CLUB": "CLUB ATLETICO ATLANTA",
+      "CUIT": "30529156444",
+      "Email Club": "club_atlanta@hotmail.com",
+      "Calle": "HUMBOLDT 374",
+      "CP": "1414"
+    },
+    {
+      "ID": "218",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 15",
+      "CLUB": "CIRCULO SOCIAL VERTIZ",
+      "CUIT": "30710855613",
+      "Email Club": "pablo.tamasi@hotmail.com",
+      "Calle": "ANDONAEGUI 1246",
+      "CP": "1427"
+    },
+    {
+      "ID": "219",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 5",
+      "CLUB": "CIRCULO MARTIN FIERRO ASOCIACION CIVIL",
+      "CUIT": "30709522015",
+      "Email Club": "luisangeloviedo@hotmail.com",
+      "Calle": "COCHABAMBA 3536",
+      "CP": "1252"
+    },
+    {
+      "ID": "220",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 4",
+      "CLUB": "CORAZON QUEMERO DE AYUDA SOLIDARIA ASOCIACION CIVIL",
+      "CUIT": "30714393630",
+      "Email Club": "corazonqueme@gmail.com",
+      "Calle": "LOS PATOS 2974 PISO:1 DPTO:0 S:0 T:0 M:0",
+      "CP": "1437"
+    },
+    {
+      "ID": "221",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 7",
+      "CLUB": "CLUB SOCIAL Y DEPORTIVO PINTITA",
+      "CUIT": "30624696324",
+      "Email Club": "timoteas@hotmail.com",
+      "Calle": "ACOSTA MARIANO 2005",
+      "CP": "1407"
+    },
+    {
+      "ID": "222",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 9",
+      "CLUB": "PARROQUIA NTRA SRA DE LUJAN DE LOS PATRIOTAS",
+      "CUIT": "30707842802",
+      "Email Club": "juanmanuelribeiro@gmail.com",
+      "Calle": "CASTRO EMILIO AV. 7156",
+      "CP": "1408"
+    },
+    {
+      "ID": "223",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 9",
+      "CLUB": "CLUB ATLETICO JUVENTUD DE LINIERS",
+      "CUIT": "30689706114",
+      "Email Club": "info@juventuddeliniers.com.ar",
+      "Calle": "MONTIEL 1174",
+      "CP": "1408"
+    },
+    {
+      "ID": "224",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 12",
+      "CLUB": "ASOCIACION COLECTIVO SOCIAL, CULTURAL Y DEPORTIVO EL TALLER",
+      "CUIT": "30715926748",
+      "Email Club": "jcc.castro@hotmail.com",
+      "Calle": "ZUVIRIA 658",
+      "CP": "1424"
+    },
+    {
+      "ID": "225",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 8",
+      "CLUB": "ASOCIACION CIVIL NUEVA ESTRELLA",
+      "CUIT": "30707723471",
+      "Email Club": "acnuevaestrella@gmail.com",
+      "Calle": "SANTANDER 4600",
+      "CP": "1439"
+    },
+    {
+      "ID": "226",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 9",
+      "CLUB": "ASOCIACION VECINAL FLORENTINO AMEGHINO Y BIBLIOTECA POPULAR JUA  B REBAGLIATI",
+      "CUIT": "30690360620",
+      "Email Club": "coordinacionameghino@gmail.com",
+      "Calle": "LA FACULTAD 1772",
+      "CP": "1407"
+    },
+    {
+      "ID": "227",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 10",
+      "CLUB": "CENTRO DEPORTIVO Y RECREATIVO TOQUE Y TOQUE ASOC. CIVIL",
+      "CUIT": "30711498695",
+      "Email Club": "nestorhindi@yahoo.com.ar",
+      "Calle": "LAVALLE 3682",
+      "CP": "1190"
+    },
+    {
+      "ID": "228",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 11",
+      "CLUB": "CENTRO COMUNITARIO KADIMA ASOCIACION",
+      "CUIT": "33540730909",
+      "Email Club": "direccionadministrativa@kadima.org.ar",
+      "Calle": "DIAZ CESAR GRAL 1441 PISO:PB",
+      "CP": "1416"
+    },
+    {
+      "ID": "229",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 10",
+      "CLUB": "CLUB DE PESCA Y NAUTICA MAR DE AJO",
+      "CUIT": "30601950541",
+      "Email Club": "clubdepescamardeajo@gmail.com",
+      "Calle": "GONZALEZ ELPIDIO 5250",
+      "CP": "1407"
+    },
+    {
+      "ID": "230",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 12",
+      "CLUB": "ASOCIACION DE CICLISMO DE BUENOS AIRES",
+      "CUIT": "30712359710",
+      "Email Club": "acbabmx@hotmail.com",
+      "Calle": "BALBIN RICARDO 4750",
+      "CP": "1430"
+    },
+    {
+      "ID": "231",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 12",
+      "CLUB": "\"LA EMILIANA\" CLUB SOCIAL DE CULTURA Y RECREACION",
+      "CUIT": "30709256595",
+      "Email Club": "clublaemiliana@yahoo.com.ar",
+      "Calle": "TERRADA 4243",
+      "CP": "1419"
+    },
+    {
+      "ID": "232",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 15",
+      "CLUB": "ASOCIACION CIVIL SE�OR DE HUANCA - CUSCO - PERU",
+      "CUIT": "30716558009",
+      "Email Club": "mateobarros2503@gmail.com",
+      "Calle": "FRAGA 900 PISO:PB DPTO:78   M:3",
+      "CP": "1427"
+    },
+    {
+      "ID": "233",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 5",
+      "CLUB": "INSTITUCION SALESIANA",
+      "CUIT": "30610211638",
+      "Email Club": "dgreco@donbosco.org.ar",
+      "Calle": "DON BOSCO 4002",
+      "CP": "1206"
+    },
+    {
+      "ID": "234",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 13",
+      "CLUB": "CLUB HARRODS GATH Y CHAVES",
+      "CUIT": "30526734455",
+      "Email Club": "hernan.amaya@clubharrods.com.ar",
+      "Calle": "DEL PINO VIRREY 1480",
+      "CP": "1426"
+    },
+    {
+      "ID": "235",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 8",
+      "CLUB": "SOMOS HECHOS NO PALABRAS ASOCIACION CIVIL",
+      "CUIT": "30716765748",
+      "Email Club": "somoshechosnopalabras@gmail.com",
+      "Calle": "CASTA&#209;ARES AV. 5621",
+      "CP": "1439"
+    },
+    {
+      "ID": "236",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 11",
+      "CLUB": "ASOCIACION VECINAL DE FOMENTO EDILICIO Y CULTURAL EL ALBA",
+      "CUIT": "30685766422",
+      "Email Club": "clubelalba1935@gmail.com",
+      "Calle": "GONZALEZ JOAQUIN V. 2469",
+      "CP": "1417"
+    },
+    {
+      "ID": "237",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 10",
+      "CLUB": "ASOCIACION TAEKWONDO UNIFICADO",
+      "CUIT": "30677062513",
+      "Email Club": "leandro@wbauditores.com",
+      "Calle": "LOPEZ VICENTE FIDEL 2034",
+      "CP": "1417"
+    },
+    {
+      "ID": "238",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 4",
+      "CLUB": "ASOCIACION ITF CABA ASOCIACION CIVIL",
+      "CUIT": "30716956543",
+      "Email Club": "leandro@wbauditores.com",
+      "Calle": "24 DE NOVIEMBRE 2279",
+      "CP": "1242"
+    },
+    {
+      "ID": "239",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 8",
+      "CLUB": "ASOCIACION CIVIL ACTI",
+      "CUIT": "30716550601",
+      "Email Club": "eitcaira@gmail.com",
+      "Calle": "CASTA&#209;ARES AV. 4595  DPTO:3H  T:7C",
+      "CP": "1439"
+    },
+    {
+      "ID": "240",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 5",
+      "CLUB": "CLUB DEPORTIVO SOCIAL Y CULTURAL DEPROP",
+      "CUIT": "30707391258",
+      "Email Club": "cayo.marceloramon@gmail.com",
+      "Calle": "RIVADAVIA AV. 3777 PISO:PB DPTO:3",
+      "CP": "1204"
+    },
+    {
+      "ID": "241",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 14",
+      "CLUB": "ASOCIACION CIVIL ARGENTINA DE ARTES MARCIALES MIXTAS",
+      "CUIT": "30715049429",
+      "Email Club": "acaamm@gmail.com",
+      "Calle": "BORGES JORGE LUIS 1818 PISO:1 DPTO:14",
+      "CP": "1414"
+    },
+    {
+      "ID": "242",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 12",
+      "CLUB": "CLUB ATLETICO PUEYRREDON",
+      "CUIT": "30691722143",
+      "Email Club": "patricia_locane@yahoo.com.ar",
+      "Calle": "LARSEN 2843",
+      "CP": "1419"
+    },
+    {
+      "ID": "243",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 4",
+      "CLUB": "COOPERATIVA DE TRABAJO ACOMPA�ANTES DE PERSONAS EN SITUACION DE CALLE LIMITADA",
+      "CUIT": "30716031027",
+      "Email Club": "pablo_iannuzzi@hotmail.com",
+      "Calle": "VELEZ SARSFIELD AV. 1351",
+      "CP": "1285"
+    },
+    {
+      "ID": "244",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 3",
+      "CLUB": "FUNDACION FUNDAR",
+      "CUIT": "30716407167",
+      "Email Club": "fundar.educacion@gmail.com",
+      "Calle": "COMBATE DE LOS POZOS 230",
+      "CP": "1080"
+    },
+    {
+      "ID": "245",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 12",
+      "CLUB": "CLUB SOCIAL Y DEPORTIVO PINOCHO",
+      "CUIT": "30578333580",
+      "Email Club": "dfargentino1@gmail.com",
+      "Calle": "PEDRAZA MANUELA 5139",
+      "CP": "1431"
+    },
+    {
+      "ID": "246",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 9",
+      "CLUB": "ASOCIACION CIVIL MERLOT S.C.",
+      "CUIT": "33716813849",
+      "Email Club": "merlotsc@hotmail.com",
+      "Calle": "CAFAYATE 758",
+      "CP": "1408"
+    },
+    {
+      "ID": "247",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 8",
+      "CLUB": "CAFAYATE FUTBOL CLUB  ASOCIACION CIVIL",
+      "CUIT": "30717588726",
+      "Email Club": "fede_lugano14@hotmail.com",
+      "Calle": "CAFAYATE 5218 PISO:11 DPTO:F  T:2",
+      "CP": "1439"
+    },
+    {
+      "ID": "248",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 5",
+      "CLUB": "KANAIMA ASOCIACION CIVIL",
+      "CUIT": "30702269829",
+      "Email Club": "fabi70t@hotmail.com",
+      "Calle": "LA PLATA AV. 1151",
+      "CP": "1250"
+    },
+    {
+      "ID": "249",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "ASOCIACION CRISTIANA DE JOVENES DE LA REPUBLICA ARGENTINA",
+      "CUIT": "30525370190",
+      "Email Club": "marcelo.diaz@ymca.org.ar",
+      "Calle": "RECONQUISTA 439",
+      "CP": "1003"
+    },
+    {
+      "ID": "250",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 10",
+      "CLUB": "ASOCIACION PATRIOTICA ITALIANA GIOVANNI GENTILE",
+      "CUIT": "30695478328",
+      "Email Club": "giovannigentileapi@gmail.com",
+      "Calle": "GARCIA JUAN A. 5270",
+      "CP": "1407"
+    },
+    {
+      "ID": "251",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 4",
+      "CLUB": "CLUB ATLETICO PARQUE DE LOS PATRICIOS",
+      "CUIT": "30661522395",
+      "Email Club": "caparquepatricios1920@gmail.com",
+      "Calle": "ALBERTI 2135",
+      "CP": "1247"
+    },
+    {
+      "ID": "252",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 13",
+      "CLUB": "TIRO FEDERAL ARGENTINO",
+      "CUIT": "33527073559",
+      "Email Club": "hmonges@tfaba.com.ar",
+      "Calle": "LIBERTADOR DEL AV. 6935",
+      "CP": "1429"
+    },
+    {
+      "ID": "253",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 14",
+      "CLUB": "UNION CULTURAL ARMENIA",
+      "CUIT": "33682613799",
+      "Email Club": "rlmomian@hotmail.com",
+      "Calle": "VEGA NICETO CNEL 4762",
+      "CP": "1414"
+    },
+    {
+      "ID": "254",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 4",
+      "CLUB": "POMPEYA NO OLVIDA, CULTURA  POPULAR ASOCIACION CIVIL",
+      "CUIT": "30717394190",
+      "Email Club": "pompeyanoolvida@gmail.com",
+      "Calle": "RAMIREZ CARLOS MARIA 1469",
+      "CP": "1437"
+    },
+    {
+      "ID": "255",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "CLUB DEPORTIVO METALURGICO ASOCIACION CIVIL",
+      "CUIT": "30716425033",
+      "Email Club": "deportivometalurgico@gmail.com",
+      "Calle": "ALSINA ADOLFO 477 PISO:8",
+      "CP": "1087"
+    },
+    {
+      "ID": "256",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "INSTITUCION SALESIANA SAN FRANCISCO JAVIER ASOCIACION CIVIL",
+      "CUIT": "30610171601",
+      "Email Club": "clubsydsalesiano@gmail.com",
+      "Calle": "DON BOSCO 4002 PISO:0 DPTO:0 S:0 T:0 M:0",
+      "CP": "1206"
+    },
+    {
+      "ID": "257",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 15",
+      "CLUB": "ASOCIACION LA CUEVA SOCIAL CLUB",
+      "CUIT": "30717597660",
+      "Email Club": "iriondonc@gmail.com",
+      "Calle": "LEIVA 4554",
+      "CP": "1427"
+    },
+    {
+      "ID": "258",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 3",
+      "CLUB": "MACABI ORGANIZACION HEBREA ARGENTINA",
+      "CUIT": "30525839512",
+      "Email Club": "d.benasulin@ohamacabi.org",
+      "Calle": "TUCUMAN 3135",
+      "CP": "1189"
+    },
+    {
+      "ID": "259",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 12",
+      "CLUB": "CLUB ATLETICO ALL BOYS SAAVEDRA ANEXO BIBLIOTECA BERNARDINO RIVADAVIA",
+      "CUIT": "30708476923",
+      "Email Club": "santi_99gg@hotmail.com",
+      "Calle": "BESARES 3142 PISO:PB",
+      "CP": "1429"
+    },
+    {
+      "ID": "260",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "ASOCIACION TRABAJADORES DEL ESTADO",
+      "CUIT": "30530013576",
+      "Email Club": "atecomodoro2016@gmail.com",
+      "Calle": "BELGRANO AV. 2527",
+      "CP": "1096"
+    },
+    {
+      "ID": "261",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 9",
+      "CLUB": "ASOCIACION CIVIL CLUB SOCIAL Y DEPORTIVO LAMADRID MATADEROS",
+      "CUIT": "30717521249",
+      "Email Club": "johannaperez86.4@gmail.com",
+      "Calle": "CARHUE 2041",
+      "CP": "1440"
+    },
+    {
+      "ID": "262",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 10",
+      "CLUB": "IMPULSO DEPORTIVO ASOCIACION CIVIL",
+      "CUIT": "30717190234",
+      "Email Club": "infoimpulsodeportivo@gmail.com",
+      "Calle": "PORCEL DE PERALTA MANUEL 1458",
+      "CP": "1408"
+    },
+    {
+      "ID": "263",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 12",
+      "CLUB": "CLUB SOCIAL Y DEPORTIVO ISLANDIA",
+      "CUIT": "30661199918",
+      "Email Club": "rtedes0803@gmail.com",
+      "Calle": "NU&#191;&#191;EZ 5566",
+      "CP": "1431"
+    },
+    {
+      "ID": "264",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "CLUB SOCIAL CULTURAL Y DEPORTIVO MARTINA CESPEDES - ASOCIACION CIVIL",
+      "CUIT": "30715751204",
+      "Email Club": "cscdmartinacespedes@gmail.com",
+      "Calle": "SAN JUAN AV. 542 PISO:1",
+      "CP": "1147"
+    },
+    {
+      "ID": "265",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 3",
+      "CLUB": "FUNDACION LA MISION - RECUPERACION DE ADICCIONES",
+      "CUIT": "30712555463",
+      "Email Club": "admlamision@gmail.com",
+      "Calle": "SARMIENTO 3353 DPTO:7 M:D",
+      "CP": "1196"
+    },
+    {
+      "ID": "266",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "CRUZ ROJA ARGENTINA",
+      "CUIT": "30546033925",
+      "Email Club": "smasencio@yahoo.com",
+      "Calle": "YRIGOYEN HIPOLITO 2068",
+      "CP": "1089"
+    },
+    {
+      "ID": "267",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 3",
+      "CLUB": "ATENEO SAN CRISTOBAL ASOCIACION CIVIL",
+      "CUIT": "30707125930",
+      "Email Club": "ateneo.sancristoba.oficial@gmail.com",
+      "Calle": "ESTADOS UNIDOS 1995",
+      "CP": "1227"
+    },
+    {
+      "ID": "268",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 13",
+      "CLUB": "CLUB ATLETICO EXCURSIONISTAS",
+      "CUIT": "30529125603",
+      "Email Club": "secretaria@excursionistas.org.ar",
+      "Calle": "LA PAMPA 1376",
+      "CP": "1428"
+    },
+    {
+      "ID": "269",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 7",
+      "CLUB": "ASOCIACION MUTUAL LA CASA DEL BAJO FLORES",
+      "CUIT": "30717584372",
+      "Email Club": "lacasadelbajoflores@gmail.com",
+      "Calle": "BONORINO E. CNEL. 1952",
+      "CP": "1406"
+    },
+    {
+      "ID": "270",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 5",
+      "CLUB": "CASA SOCIAL EL SOL DE BOEDO ASOCIACION CIVIL",
+      "CUIT": "30708881712",
+      "Email Club": "negraf64@gmail.com",
+      "Calle": "TREINTA Y TRES ORIENTALES 1100",
+      "CP": "1257"
+    },
+    {
+      "ID": "271",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 7",
+      "CLUB": "ASOCIACION ARGENTINA DE ARBITROS",
+      "CUIT": "30607223579",
+      "Email Club": "marceloerrante@hotmail.com",
+      "Calle": "VIAMONTE 1355 PISO:01",
+      "CP": "1053"
+    },
+    {
+      "ID": "272",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "CLUB ATLETICO RIVER PLATE ASOC CIVIL",
+      "CUIT": "30526748448",
+      "Email Club": "belenquiroz966@gmail.com",
+      "Calle": "FIGUEROA ALCORTA AV. 7597",
+      "CP": "1428"
+    },
+    {
+      "ID": "273",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 7",
+      "CLUB": "CLUB ATLETICO SAN LORENZO DE ALMAGRO",
+      "CUIT": "30527929772",
+      "Email Club": "caslasocial@sanlorenzo.com.ar",
+      "Calle": "FERNANDEZ D.L.CRUZ A 2505",
+      "CP": "1437"
+    },
+    {
+      "ID": "274",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 9",
+      "CLUB": "CLUB ATLETICO VELEZ SARSFIELD ASOCIACION CIVIL",
+      "CUIT": "30527607708",
+      "Email Club": "lomisol@hotmail.com",
+      "Calle": "JUSTO JUAN B AV. 9200",
+      "CP": "1408"
+    },
+    {
+      "ID": "275",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 13",
+      "CLUB": "BELGRANO SHOOTING CLUB  S A",
+      "CUIT": "30647175933",
+      "Email Club": "priscilanicolereynoso@gmail.com",
+      "Calle": "LA PAMPA 1275",
+      "CP": "1428"
+    },
+    {
+      "ID": "276",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 8",
+      "CLUB": "ASOC.CIVIL JUVENTUD Y ESPERANZA PILETONES",
+      "CUIT": "30717369951",
+      "Email Club": "juventudyesperanzapiletones@gmail.com",
+      "Calle": "BO.SOLDATI EDIF. NRO 12     M:9",
+      "CP": "1437"
+    },
+    {
+      "ID": "277",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 7",
+      "CLUB": "CENTRO_DE_ESTUDIOS_POLITICOS_Y_SOCIALES_JUAN_CARLOS_MAZZON ASOCIACION_CIVIL",
+      "CUIT": "30716414546",
+      "Email Club": "espaciofermin@gmail.com",
+      "Calle": "CULPINA 75",
+      "CP": "1406"
+    },
+    {
+      "ID": "278",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 4",
+      "CLUB": "CLUB ATLETICO BARRACAS CENTRAL",
+      "CUIT": "30602515679",
+      "Email Club": "malenaquinteros1234@gmail.com",
+      "Calle": "LUNA 1211",
+      "CP": "1437"
+    },
+    {
+      "ID": "279",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 15",
+      "CLUB": "ASOCIACION ATLETICA ARGENTINOS JUNIORS",
+      "CUIT": "30533976766",
+      "Email Club": "disciplinas@argentinosjuniors.com.ar",
+      "Calle": "PUNTA ARENAS 1271",
+      "CP": "1427"
+    },
+    {
+      "ID": "280",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 3",
+      "CLUB": "ASOCIACION CIVIL MALUMBA",
+      "CUIT": "33715531629",
+      "Email Club": "arseniolupinradio@gmail.com",
+      "Calle": "ESTADOS UNIDOS 2006 PISO:3 DPTO:9",
+      "CP": "1227"
+    },
+    {
+      "ID": "281",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "CENTRO ANDINO BUENOS AIRES",
+      "CUIT": "30688288734",
+      "Email Club": "juan_cruz@yahoo.com",
+      "Calle": "RIVADAVIA AV. 1255 PB D2",
+      "CP": "1033"
+    },
+    {
+      "ID": "282",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 2",
+      "CLUB": "LA SALLE RUGBY Y HOCKEY ASOCIACION CIVIL",
+      "CUIT": "33716805579",
+      "Email Club": "lasallerugbyyhockey@gmail.com",
+      "Calle": "PUEYRREDON AV. 1017 PISO:5 DPTO:A",
+      "CP": "1118"
+    },
+    {
+      "ID": "283",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 13",
+      "CLUB": "ASOCIACION COOPERADORA DEL INSTITUTO DE EDUCACION FISICA N� 1 D.E. 10",
+      "CUIT": "30676699216",
+      "Email Club": "isefcooperadora@gmail.com",
+      "Calle": "LARRALDE CRISOLOGO 1050",
+      "CP": "1429"
+    },
+    {
+      "ID": "284",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 9",
+      "CLUB": "ASOCIACION CLUB SOCIAL Y DEPORTIVO CORONEL CARDENAS",
+      "CUIT": "30717711374",
+      "Email Club": "mlamarca1976@gmail.com",
+      "Calle": "CARHUE 2460",
+      "CP": "1440"
+    },
+    {
+      "ID": "285",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 8",
+      "CLUB": "ASOCIACION CIVIL LA FAMILIA",
+      "CUIT": "30717583449",
+      "Email Club": "urquizamarcelo93@gmail.com",
+      "Calle": "VILLA 20   CASA NRO. 102     M:30",
+      "CP": "1439"
+    },
+    {
+      "ID": "286",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "BRAVE BROKER S.A.",
+      "CUIT": "30708431938",
+      "Email Club": "Reyesciro5@gmail.com",
+      "Calle": "PAROISSIEN 2506",
+      "CP": "1429"
+    },
+    {
+      "ID": "287",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 4",
+      "CLUB": "FUNDACION T.E.M.A.S. (TRABAJO. EDUCACON. MEDIO AMBIENTE. SALUD )",
+      "CUIT": "30708332514",
+      "Email Club": "temas@fundaciontemas.org.ar",
+      "Calle": "CALIFORNIA 2121 PISO:PB",
+      "CP": "1289"
+    },
+    {
+      "ID": "288",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 14",
+      "CLUB": "OLD GEORGIAN CLUB A C",
+      "CUIT": "33676299659",
+      "Email Club": "sports@oldgeorgianclub.com.ar",
+      "Calle": "GUTIERREZ JUAN MARIA 3829",
+      "CP": "1425"
+    },
+    {
+      "ID": "289",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 8",
+      "CLUB": "ASOCIACION CIVIL JUVENTUD UNIDA DEL RAMON CARRILLO",
+      "CUIT": "33710339479",
+      "Email Club": "claurobles7@hotmail.com",
+      "Calle": "BARRIO RAMON CARRILLO 0 DPTO:5",
+      "CP": "1407"
+    },
+    {
+      "ID": "290",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 3",
+      "CLUB": "ASOCIACION CIVIL ESPERANZA DE LOS NI�OS",
+      "CUIT": "30714793868",
+      "Email Club": "playonretirofc@gmail.com",
+      "Calle": "YRIGOYEN HIPOLITO 2188",
+      "CP": "1089"
+    },
+    {
+      "ID": "291",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 8",
+      "CLUB": "PARROQUIA NTRA. SRA. DE FATIMA",
+      "CUIT": "30716145847",
+      "Email Club": "fatima.club.atletico@gmail.com",
+      "Calle": "ACOSTA MARIANO 2979",
+      "CP": "1437"
+    },
+    {
+      "ID": "292",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 4",
+      "CLUB": "FUNDACION EDUCACION DEPORTIVA GRINCOC",
+      "CUIT": "30716294621",
+      "Email Club": "fundaciongrincoc@gmail.com",
+      "Calle": "PI Y MARGALL 420 PISO:6 DPTO:M",
+      "CP": "1156"
+    },
+    {
+      "ID": "293",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 8",
+      "CLUB": "ASOCIACION SACACHISPITAS FUTBOL INFANTILCLUB",
+      "CUIT": "30717593053",
+      "Email Club": "sacachispasfutbolinfantilclub@gmail.com",
+      "Calle": "BARROS PAZOS JOSE 3670  DPTO:23",
+      "CP": "1437"
+    },
+    {
+      "ID": "294",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 4",
+      "CLUB": "FUNDACION TIEMPO DE ACTUAR PARA MEJORARLA CALIDAD DE VIDA",
+      "CUIT": "30712663509",
+      "Email Club": "fundaciontda@gmail.com",
+      "Calle": "CRUZ OSVALDO 3470",
+      "CP": "1437"
+    },
+    {
+      "ID": "295",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "CLUB SOCIAL Y DEPORTIVO AGUILAS DE MUGICA ASOCIACION CIVIL",
+      "CUIT": "30717709817",
+      "Email Club": "Csd.aguilasdemugica31@gmail.com",
+      "Calle": "VILLA 31  CASA NRO. 19  DPTO:2   M:18",
+      "CP": "1004"
+    },
+    {
+      "ID": "296",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 15",
+      "CLUB": "CLUB ATLETICO BOCA JUNIORS ASOCIACION CIVIL",
+      "CUIT": "30525418835",
+      "Email Club": "Alejandratorresb40@gmail.com",
+      "Calle": "BRANDSEN 805",
+      "CP": "1161"
+    },
+    {
+      "ID": "297",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 7",
+      "CLUB": "PARROQUIA SAN SATURNINO Y SAN JUDAS TADEO",
+      "CUIT": "30709327395",
+      "Email Club": "parroquia@institutosanjudastadeo.edu.ar",
+      "Calle": "VALENCIA 2087",
+      "CP": "1406"
+    },
+    {
+      "ID": "298",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 7",
+      "CLUB": "ACADEMIA BBG ASOCIACION CIVIL",
+      "CUIT": "30716608421",
+      "Email Club": "info@bbg-itf.com.ar",
+      "Calle": "MORENO JOSE MARIA AV. 1210 PISO:2 DPTO:A",
+      "CP": "1424"
+    },
+    {
+      "ID": "299",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "ADMINISTRACION FEDERAL DE INGRESOS PUBLICOS",
+      "CUIT": "33693450239",
+      "Email Club": "carolinaperalta19922018@gmail.com",
+      "Calle": "YRIGOYEN HIPOLITO 370 PISO:4 DPTO:4752",
+      "CP": "1086"
+    },
+    {
+      "ID": "300",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 10",
+      "CLUB": "ATENEO POPULAR DE VERSAILLES",
+      "CUIT": "30527911415",
+      "Email Club": "ateneoversaillesnm@gmail.com",
+      "Calle": "ROMA 950",
+      "CP": "1408"
+    },
+    {
+      "ID": "301",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 6",
+      "CLUB": "ASOCIACION VECINOS DE CABALLITO POR LA EQUIDAD Y LA JUSTICIA SOCIAL",
+      "CUIT": "33717683639",
+      "Email Club": "caballitoeyj@gmail.com",
+      "Calle": "ORO&#209;O NICASIO 1682",
+      "CP": "1416"
+    },
+    {
+      "ID": "302",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 11",
+      "CLUB": "ASOCIACION DE FOMENTO Y BIBLIOTECA POPULAR DEVOTO OESTE",
+      "CUIT": "30680642997",
+      "Email Club": "devotooestesoc-fom-@hotmail.com",
+      "Calle": "BERMUDEZ 3351",
+      "CP": "1419"
+    },
+    {
+      "ID": "303",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 13",
+      "CLUB": "CLUB CIUDAD DE BUENOS AIRES",
+      "CUIT": "30517070803",
+      "Email Club": "secretaria.general@clubciudad.org.ar",
+      "Calle": "LIBERTADOR DEL AV. 7501",
+      "CP": "1429"
+    },
+    {
+      "ID": "304",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "CIRCULO DE EX CADETES DEL LICEO MILITAR GENERAL SAN MARTIN",
+      "CUIT": "30678566043",
+      "Email Club": "secretariacecliceomilitargsm@yahoo.com.ar",
+      "Calle": "SARMIENTO 680 PISO:02 DPTO:B",
+      "CP": "1041"
+    },
+    {
+      "ID": "305",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 8",
+      "CLUB": "CLUB SOCIAL Y DEPORTIVO SPORTIVO SAMORE ASOCIACION CIVIL",
+      "CUIT": "30717786757",
+      "Email Club": "lobuest@hotmail.com",
+      "Calle": "DELLEPIANE TTE.GRAL. 4670 PISO:1 DPTO:F",
+      "CP": "1439"
+    },
+    {
+      "ID": "306",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 13",
+      "CLUB": "CLUB BELGRANO",
+      "CUIT": "30526781984",
+      "Email Club": "administracion@clubbelgrano.org.ar",
+      "Calle": "ARRIBE&#209;OS 1701",
+      "CP": "1426"
+    },
+    {
+      "ID": "307",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 11",
+      "CLUB": "ASOCIACION DE EMPLEADOS DEL BANCO DE LA CIUDAD DE BUENOS AIRES MUTUAL SOCIAL Y D",
+      "CUIT": "30528001080",
+      "Email Club": "gerencia@mutualbancociudad.com.ar",
+      "Calle": "SAENZ PE&#209;A R. PTE. AV. 547 PISO:EP",
+      "CP": "1035"
+    },
+    {
+      "ID": "308",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 3",
+      "CLUB": "ASOCIACION YABRUDENSE DE BENEFICIENCIA Y SOCORROS MUTUOS",
+      "CUIT": "30544855766",
+      "Email Club": "asyabrudense@gmail.com",
+      "Calle": "ALBERTI 1541",
+      "CP": "1247"
+    },
+    {
+      "ID": "309",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 14",
+      "CLUB": "CLUB ATLETICO PALERMO",
+      "CUIT": "30661627286",
+      "Email Club": "clubatleticopalermo@gmail.com",
+      "Calle": "FITZ ROY 2238",
+      "CP": "1425"
+    },
+    {
+      "ID": "310",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 3",
+      "CLUB": "CENTRO GALICIA DE BUENOS AIRES, CULTURAL, SOCIAL Y DEPORTIVO",
+      "CUIT": "33529522369",
+      "Email Club": "tesoreria@centrogalicia-bsas.org",
+      "Calle": "MITRE BARTOLOME 2538",
+      "CP": "1039"
+    },
+    {
+      "ID": "311",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 12",
+      "CLUB": "FUNDACION CENTRO ARGENTINO DE DESARROLLO SUSTENTABLE CADDES",
+      "CUIT": "30715926616",
+      "Email Club": "mariano@jager.com.ar",
+      "Calle": "MILLER 3436  DPTO:2",
+      "CP": "1431"
+    },
+    {
+      "ID": "312",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 4",
+      "CLUB": "CLUB SOCIAL Y DEPORTIVO ZAVALETA ASOCIACION CIVIL",
+      "CUIT": "30717776085",
+      "Email Club": "czavaletajrs@gmail.com",
+      "Calle": "IRIARTE 3702",
+      "CP": "1437"
+    },
+    {
+      "ID": "313",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 11",
+      "CLUB": "MERA MATIAS EDUARDO",
+      "CUIT": "23521381019",
+      "Email Club": "nao.mera08@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "314",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 7",
+      "CLUB": "LUZ BELEN GOMEZ NAVARRO",
+      "CUIT": "27465022405",
+      "Email Club": "gomezluz62410@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "315",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 4",
+      "CLUB": "ASOCIACION CIVIL JOVENES ORGANIZADOS DEL SUR POR EL FUTURO Y LA INCLUSION",
+      "CUIT": "30716887207",
+      "Email Club": "asociacionciviljovenesdelsur@gmail.com",
+      "Calle": "BROWN ALMTE AV. 1488",
+      "CP": "1159"
+    },
+    {
+      "ID": "316",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 4",
+      "CLUB": "CLUB SOCIAL DE SANTA LUCIA",
+      "CUIT": "30578065454",
+      "Email Club": "clubsantalucia@outlook.com",
+      "Calle": "MONTES DE OCA MANUEL 1517",
+      "CP": "1270"
+    },
+    {
+      "ID": "317",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 4",
+      "CLUB": "GABRIELA BEATRIZ MEDINA",
+      "CUIT": "27440809095",
+      "Email Club": "angeles2020beatriz98@hotmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "318",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 9",
+      "CLUB": "CLUB LINIERS",
+      "CUIT": "30526732924",
+      "Email Club": "dolz0307@gmail.com",
+      "Calle": "PALMAR 7035",
+      "CP": "1408"
+    },
+    {
+      "ID": "319",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 5",
+      "CLUB": "FEDERACION COLOMBOFILA ARGENTINA ASOCIACION CIVIL SIN FINES DE LUCRO",
+      "CUIT": "30541250987",
+      "Email Club": "prensafecoar@fibertel.com.ar",
+      "Calle": "BOGOTA 13 PISO:PB",
+      "CP": "1405"
+    },
+    {
+      "ID": "320",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 7",
+      "CLUB": "ASOCIACION SOCIAL CULTURAL Y DEPORTIVA FLORES CLUB",
+      "CUIT": "30682741402",
+      "Email Club": "reymariabelen@fibertel.com.ar",
+      "Calle": "QUIRNO 947",
+      "CP": "1406"
+    },
+    {
+      "ID": "321",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 9",
+      "CLUB": "ELINA VELASCO",
+      "CUIT": "27948212620",
+      "Email Club": "velascoelina@gmail.com",
+      "Calle": "IBARROLA 7212 PISO:2",
+      "CP": "1408"
+    },
+    {
+      "ID": "322",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 13",
+      "CLUB": "STELLA MARIS JUAREZ",
+      "CUIT": "23376354814",
+      "Email Club": "Stellajuarez564@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "323",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "RAMOS CRISTINA SOLEDAD",
+      "CUIT": "27404650667",
+      "Email Club": "soleeramos066@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "324",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 2",
+      "CLUB": "EVELYN ANDRIAN MANUCCI",
+      "CUIT": "27451683158",
+      "Email Club": "andrianmanucci@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "325",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 10",
+      "CLUB": "GISELA BELEN RUIZ",
+      "CUIT": "27359882594",
+      "Email Club": "aaron_gise@hotmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "326",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 10",
+      "CLUB": "MARTIN EMANUEL SORIA",
+      "CUIT": "20353483901",
+      "Email Club": "vasedaiana77@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "327",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "CAROL KATHERINA ARAMAYO",
+      "CUIT": "27454354341",
+      "Email Club": "carolaramayo443@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "328",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "MARCELA ALEJANDRA ACEVEDO",
+      "CUIT": "24336053362",
+      "Email Club": "abigailxiamaraambar@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "329",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 7",
+      "CLUB": "MELINA HAIDEE CORONEL",
+      "CUIT": "27349357378",
+      "Email Club": "Coronelmelina580@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "330",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 4",
+      "CLUB": "MARIA EUGENIA ZAYAS",
+      "CUIT": "27937276635",
+      "Email Club": "marinasilveti@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "331",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 4",
+      "CLUB": "ASOCIACION CIVIL CENTRO COMUNITARIO VECINAL EL ALFARERO",
+      "CUIT": "30702236793",
+      "Email Club": "c_elalfarero@hotmail.com",
+      "Calle": "LUNA 1955 PISO:PB DPTO:--- S:--- T:--- M:---",
+      "CP": "1437"
+    },
+    {
+      "ID": "332",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 6",
+      "CLUB": "REICH KATERIN YULIANA",
+      "CUIT": "27467322740",
+      "Email Club": "yulireich03@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "333",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "MARIA FLORENCIA AGUIRRE",
+      "CUIT": "27399640763",
+      "Email Club": "chuchydegimenez.47@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "334",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "ANIBAL FRANCO",
+      "CUIT": "20510827393",
+      "Email Club": "chuchuanii5@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "335",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "SALOME MARIA PALOMEQUE FERREYRA",
+      "CUIT": "27500934595",
+      "Email Club": "mf4875481@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "336",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 5",
+      "CLUB": "SOSA LUDMILA JAZMIN",
+      "CUIT": "27436556867",
+      "Email Club": "Ludmilasosa963@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "337",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 6",
+      "CLUB": "BRIANA NOEMI MEDINA",
+      "CUIT": "27556600223",
+      "Email Club": "cintiabrianamedina@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "338",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 15",
+      "CLUB": "MILAGROS AGUSTINA SOTO",
+      "CUIT": "27482326612",
+      "Email Club": "johannabustamante92895@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "339",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 12",
+      "CLUB": "SOTO AGOSTINA YAMILA",
+      "CUIT": "27521148956",
+      "Email Club": "johannabustamante92895@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "340",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 13",
+      "CLUB": "MELISSA SOLEDAD SOTO",
+      "CUIT": "27494275010",
+      "Email Club": "johannabustamante92895@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "341",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 15",
+      "CLUB": "BRISA JOSEFINA SOTO",
+      "CUIT": "27548202561",
+      "Email Club": "johannabustamante92895@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "342",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 13",
+      "CLUB": "ZAMIRA GISELLE SOTO",
+      "CUIT": "27531402133",
+      "Email Club": "johannabustamante92895@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "343",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "CRISTIAN ADRIAN ANTONIO CEJAS",
+      "CUIT": "20274287471",
+      "Email Club": "santia3399@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "344",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 10",
+      "CLUB": "CLAUDIA MAGDALENA GARNICA",
+      "CUIT": "27403572239",
+      "Email Club": "garnicaclaudia313@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "345",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "TORRES FABRIZIO AGUSTIN",
+      "CUIT": "20464172530",
+      "Email Club": "peresroberto706@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "346",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 11",
+      "CLUB": "JUAN MARCOS BRAITHWAITE",
+      "CUIT": "20082374869",
+      "Email Club": "piletadavinci.21@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "347",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "MARIO ROLANDO CARDOZO",
+      "CUIT": "20232973375",
+      "Email Club": "Mariocardozo607@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "348",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 12",
+      "CLUB": "LEONOR LOPEZ",
+      "CUIT": "27023072802",
+      "Email Club": "gimnasioestrella@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "349",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 12",
+      "CLUB": "ASOCIACION CLUB ESCUELITA DEPORTIVA VILLA PUEYRREDON",
+      "CUIT": "30717358003",
+      "Email Club": "escuelitadeportivavp@gmail.com",
+      "Calle": "CONDARCO 5375 PISO:P.B. DPTO:3",
+      "CP": "1419"
+    },
+    {
+      "ID": "350",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 4",
+      "CLUB": "ELIANA NOEMI VI�AVAL",
+      "CUIT": "27329134704",
+      "Email Club": "Solesita870@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "351",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "VERONICA BEATRIZ BENITEZ",
+      "CUIT": "27389183933",
+      "Email Club": "verotiti1234@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "352",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 4",
+      "CLUB": "TAMARA SABINA MATOS ASCOITIA",
+      "CUIT": "27953264892",
+      "Email Club": "tamarasabinamatosascoitia@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "353",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 10",
+      "CLUB": "QUINTERO VELASQUEZ TANIA NEFTALI",
+      "CUIT": "27424474318",
+      "Email Club": "quinterovelasqueztania@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "354",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 7",
+      "CLUB": "ICHOTA RAMOS NAHUEL CRISTOPHER GUSTAVO",
+      "CUIT": "20524404029",
+      "Email Club": "adriramos038@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "355",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 7",
+      "CLUB": "ARIADNA TIFFANY RAMOS",
+      "CUIT": "27557598435",
+      "Email Club": "adriramos038@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "356",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 12",
+      "CLUB": "KATHERINE AILEN SANCHEZ",
+      "CUIT": "27407941247",
+      "Email Club": "biancaiangonzalez@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "357",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 7",
+      "CLUB": "ESTEFANIA CAROLINA VELAZQUEZ",
+      "CUIT": "27406412380",
+      "Email Club": "stefaniavelazquez405@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "358",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "CAMILA SOLEDAD CUELLO",
+      "CUIT": "27415822141",
+      "Email Club": "camilacuel565@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "359",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 10",
+      "CLUB": "MARIA MAGDALENA VILLAFA�E",
+      "CUIT": "27451968942",
+      "Email Club": "mariavillafane158@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "360",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 15",
+      "CLUB": "SERGIO FERNANDO POLAKO",
+      "CUIT": "20379348883",
+      "Email Club": "nacopolako1993@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "361",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 5",
+      "CLUB": "NOELIA BELEN GOMEZ",
+      "CUIT": "27416592018",
+      "Email Club": "noelialucas026@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "362",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 7",
+      "CLUB": "GABRIEL ALEJANDRO JOLIVOT",
+      "CUIT": "20348775392",
+      "Email Club": "vanesaalejandrapalermo@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "363",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 4",
+      "CLUB": "ESPINOLA NU�EZ FANY MARIA",
+      "CUIT": "27953011153",
+      "Email Club": "espinolafany24@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "364",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "DAIANA ELIZABETH MALDONADO",
+      "CUIT": "27363858622",
+      "Email Club": "maldonadodaiana72@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "365",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 10",
+      "CLUB": "XIMENA ALEJANDRA GROSS",
+      "CUIT": "27464807530",
+      "Email Club": "ximegross8@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "366",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 5",
+      "CLUB": "EL ESCARAMUJO ASOCIACION CIVIL Y CULTURAL",
+      "CUIT": "30714332658",
+      "Email Club": "negrochiban@gmail.com",
+      "Calle": "MAZA 1165",
+      "CP": "1220"
+    },
+    {
+      "ID": "367",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 13",
+      "CLUB": "ANAYELI PRISCILA PEREZ",
+      "CUIT": "27496163651",
+      "Email Club": "priscilaperez13@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "368",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 9",
+      "CLUB": "BRISA CELESTE REQUEZ MAMANI",
+      "CUIT": "27467573972",
+      "Email Club": "brirequez22@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "369",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "MARIA ANABELA CARNEVALI",
+      "CUIT": "27401174910",
+      "Email Club": "andreacarnevali35@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "370",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 10",
+      "CLUB": "JUAN MANUEL BARO CORRAL",
+      "CUIT": "20326036480",
+      "Email Club": "juanmbaro@gmail.com",
+      "Calle": "ESCALADA DE S.MARTIN 4958",
+      "CP": "1407"
+    },
+    {
+      "ID": "371",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "SAN ISIDRO CLUB",
+      "CUIT": "33531955469",
+      "Email Club": "m.arancibia@sanisidroclub.com.ar",
+      "Calle": "ALEM LEANDRO N. AV. 822 PISO:03",
+      "CP": "1001"
+    },
+    {
+      "ID": "372",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "AGUIAR CARBALLO PATRICIA ARACELI",
+      "CUIT": "27948016198",
+      "Email Club": "patriciaaguiar0726@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "373",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 2",
+      "CLUB": "MILAGROS EDITH MEDINA",
+      "CUIT": "27418394795",
+      "Email Club": "milagrosmedina860@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "374",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 12",
+      "CLUB": "VIVIANA INES GUZMAN",
+      "CUIT": "27378326635",
+      "Email Club": "viviguzman326@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "375",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "ABRIL AILEN CASTILLO",
+      "CUIT": "27466333609",
+      "Email Club": "castilloabril916@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "376",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "PE�A MAIA LUCIA",
+      "CUIT": "27493393354",
+      "Email Club": "sofypena24@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "377",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "EDUARDO DAVID MACIEL",
+      "CUIT": "27307179410",
+      "Email Club": "bareirocelianora@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "378",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 3",
+      "CLUB": "MAYELIS JOSEFINA GONZALEZ RAMOS",
+      "CUIT": "27961374745",
+      "Email Club": "ramosmayeli321@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "379",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "HERNAN NICOLAS BORGES FAGUNDES",
+      "CUIT": "20493644107",
+      "Email Club": "susanafagundez0022@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "380",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 4",
+      "CLUB": "CLAUDIA IVANA VAZQUEZ",
+      "CUIT": "27293969596",
+      "Email Club": "ivanavasquesz@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "381",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "PABLO DANIEL SAUCEDO",
+      "CUIT": "20419417611",
+      "Email Club": "Saucedopablo2010@gmil.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "382",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "BRENDA LEONELA PRIANTI",
+      "CUIT": "27363339994",
+      "Email Club": "brendaprianti1991@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "383",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "PATRICIA SOLEDAD FLAMENCO",
+      "CUIT": "27409420015",
+      "Email Club": "flamencopatricia2@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "384",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "ROCIO SOLEDAD MORENO",
+      "CUIT": "27354115579",
+      "Email Club": "rocio.morenoortiz1990@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "385",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "LUZMILA YAQUELINE SILVA",
+      "CUIT": "27504270608",
+      "Email Club": "cinthiayanetsilva@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "386",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "BAUDILIA RUIZ",
+      "CUIT": "27279706396",
+      "Email Club": "www.isaiasbenicio0311@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "387",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 12",
+      "CLUB": "NOEMI ROMINA CANCINO",
+      "CUIT": "27351929125",
+      "Email Club": "Noemycnc7@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "388",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 6",
+      "CLUB": "MARIBEL REINA FRIAS",
+      "CUIT": "27359288390",
+      "Email Club": "maribelreinafrias@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "389",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "RAMIRO BENJAMIN RAMOS ROJAS",
+      "CUIT": "20514662879",
+      "Email Club": "larousdela22@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "390",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "CANDELA AILIN RAMOS ROJAS",
+      "CUIT": "27500623263",
+      "Email Club": "larousdela22@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "391",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "MANUELA VASSALLO",
+      "CUIT": "27956105329",
+      "Email Club": "vassallomanuela2@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "392",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 2",
+      "CLUB": "ROCIO HERMELINDA ELIZABETH ALCOA",
+      "CUIT": "27399405381",
+      "Email Club": "alcoarocio521@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "393",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "ASOCIACION CIVIL DETRAS DE TODO PARA LA INCLUSION SOCIAL",
+      "CUIT": "30711778868",
+      "Email Club": "detrasdetodoac@gmail.com",
+      "Calle": "VILLA 31  CASA NRO. 125     M:104",
+      "CP": "1004"
+    },
+    {
+      "ID": "394",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "MIRANDA CHIARA BELEN",
+      "CUIT": "23485037764",
+      "Email Club": "rufina-betty@hotmil.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "395",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 9",
+      "CLUB": "JOHANNA ELIZABETH PEREZ",
+      "CUIT": "27359740579",
+      "Email Club": "johannaelizabethperez265@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "396",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 8",
+      "CLUB": "LUNA SOLEDAD GARCIA GARCIA",
+      "CUIT": "27478700569",
+      "Email Club": "lunasoledadgarcia88@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "397",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "ROXANA ARIELA MARTINEZ",
+      "CUIT": "23385435134",
+      "Email Club": "roxanamartinez52497@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "398",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 4",
+      "CLUB": "FANNY FLORENCIA ZURITA IBA�EZ",
+      "CUIT": "27394177798",
+      "Email Club": "zfanny438@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "399",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "ANA LAURA RETAMOSO",
+      "CUIT": "27478979393",
+      "Email Club": "Analauraretamoso6@gmail",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "400",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "JUAN CARLOS ROMERO",
+      "CUIT": "20293391905",
+      "Email Club": "romerojuancarlos776@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "401",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "JULIANA ARACELI DE LA CASA",
+      "CUIT": "27380470247",
+      "Email Club": "delacasajuly67@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "402",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "GOMEZ THIAGO VALENTIN",
+      "CUIT": "20536063529",
+      "Email Club": "delacasajuly67@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "403",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 6",
+      "CLUB": "YAMILA JANET ESCOBAR",
+      "CUIT": "27409871963",
+      "Email Club": "eyaneth977@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "404",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "LEYLA LUZ SALGADO RIOS",
+      "CUIT": "27539705364",
+      "Email Club": "Belenrioss2211@hotmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "405",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 8",
+      "CLUB": "ASOCIACION JUVENIL ARAUCANA A.J.A.",
+      "CUIT": "30586618861",
+      "Email Club": "ajacap@gmail.com",
+      "Calle": "FERNANDEZ D.L.CR 2875",
+      "CP": "1437"
+    },
+    {
+      "ID": "406",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "PAMELA BARBARA RIVERA",
+      "CUIT": "27301909360",
+      "Email Club": "pamebrivera1983@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "407",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 9",
+      "CLUB": "ROCIO BELEN DIAZ",
+      "CUIT": "27435070413",
+      "Email Club": "Bogadorocita22@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "408",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "LEONEL MAXIMILIANO GONZALEZ",
+      "CUIT": "20351754231",
+      "Email Club": "leomaxig423@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "409",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "NOELIA BEATRIZ CABALIE",
+      "CUIT": "27354471308",
+      "Email Club": "noeliapepice40@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "410",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 10",
+      "CLUB": "CABRERA SOLANGE AYMARA",
+      "CUIT": "27524671218",
+      "Email Club": "soniacabrera1870@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "411",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "SONIA GRACIELA CABRERA",
+      "CUIT": "27371335949",
+      "Email Club": "solgradiegoo1234@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "412",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 7",
+      "CLUB": "LAURA STEFANIA SANCHEZ",
+      "CUIT": "27392580234",
+      "Email Club": "stefannni95sanchez@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "413",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 14",
+      "CLUB": "LUCIANA ALEJANDRA FIGUEROA",
+      "CUIT": "27364881911",
+      "Email Club": "jazin.juan.yoni@mailcom.ar",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "414",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "ROMINA ANTONELLA DUHALDE",
+      "CUIT": "27374343942",
+      "Email Club": "Rominaduhalde980@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "415",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "ZARATE ROCIO ETELVINA",
+      "CUIT": "27452756051",
+      "Email Club": "maicoldemetrio00@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "416",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 13",
+      "CLUB": "GISELLE JOHANNA GULCHIN",
+      "CUIT": "27299519770",
+      "Email Club": "Gisellegulchin40@hotmail.col",
+      "Calle": "CRAMER AV. 2436 PISO:12",
+      "CP": "1428"
+    },
+    {
+      "ID": "417",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "VANESA MARIEL CLARISA SUAREZ MARTINEZ",
+      "CUIT": "27377164216",
+      "Email Club": "vanesa.ariana050815@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "418",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "LESCANO MEDINA ALEX IVAN",
+      "CUIT": "20952752147",
+      "Email Club": "sanjuan1878@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "419",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "SILVIA PAOLA ANUNCIAO",
+      "CUIT": "23395269844",
+      "Email Club": "anunciaosilvia09@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "420",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "ALEXIS ARIEL FRANCO",
+      "CUIT": "20367262290",
+      "Email Club": "pg639098@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "421",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 11",
+      "CLUB": "FERNANDO JAVIER PISURNIA",
+      "CUIT": "20244126031",
+      "Email Club": "clubdeportivodelpino@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "422",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "JENNIFER IVANA ARGA�ARAZ",
+      "CUIT": "27402592902",
+      "Email Club": "jeniferivana24@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "423",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 9",
+      "CLUB": "ROCIO ROMINA HERRERA",
+      "CUIT": "27409515415",
+      "Email Club": "herreraesperanza102@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "424",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 14",
+      "CLUB": "MIA BERENICE HERRERA",
+      "CUIT": "27538084765",
+      "Email Club": "herreraesperanza102@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "425",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 4",
+      "CLUB": "YESICA NOELIA LOZA",
+      "CUIT": "27342312689",
+      "Email Club": "lozayesicanoelia@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "426",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "MARIA BELEN ASTUDILLO",
+      "CUIT": "27387654939",
+      "Email Club": "belenastudillo22@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "427",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 5",
+      "CLUB": "MARIA FLORENCIA MU�OZ",
+      "CUIT": "27384495503",
+      "Email Club": "mariaflorenciamunoz9@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "428",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 14",
+      "CLUB": "CRISTIAN BENJAMIN BONETT",
+      "CUIT": "20494438608",
+      "Email Club": "Bonettbenjamin17@gmail.coma",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "429",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 5",
+      "CLUB": "AGRUPACION SUDATLANTICA DE EXPEDICIONES SUBMARINAS JULES ROSSI",
+      "CUIT": "30675948549",
+      "Email Club": "info@ases.org.ar",
+      "Calle": "QUITO 3657",
+      "CP": "1212"
+    },
+    {
+      "ID": "430",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "LAURA EVELYN DE PEDRO",
+      "CUIT": "27270401908",
+      "Email Club": "depedroevelyn22@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "431",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 3",
+      "CLUB": "ASOCIACION INTEGRAL DE TAEKWON-DO S. ASOC.",
+      "CUIT": "30717552659",
+      "Email Club": "asociacionintegraltaekwondo@gmail.com",
+      "Calle": "ALSINA ADOLFO 2300 PISO:1 DPTO:1007 S:S",
+      "CP": "1090"
+    },
+    {
+      "ID": "432",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "SINDICATO  EMPLEADOS DE COMERCIO CAPITAL FEDERAL",
+      "CUIT": "30525274523",
+      "Email Club": "veronicabarbas105@gmail.com",
+      "Calle": "MORENO 625",
+      "CP": "1091"
+    },
+    {
+      "ID": "433",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 15",
+      "CLUB": "RODRIGO SEBASTIAN OCAMPO",
+      "CUIT": "20315381747",
+      "Email Club": "rodrigo.s.ocampo@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "434",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "RITA ANA GABRIELA VILLAFA�E",
+      "CUIT": "27382500224",
+      "Email Club": "anagabrielavillafane@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "435",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "LUIS BALTAZAR JIMENEZ",
+      "CUIT": "20341674426",
+      "Email Club": "luis1364_jimenez@hotmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "436",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "FUNDACION �ANDU",
+      "CUIT": "30708540117",
+      "Email Club": "mariasoledadsalcedo.ss@gmail.com",
+      "Calle": "DORREGO AV. 1940 PISO:6 DPTO:A",
+      "CP": "1414"
+    },
+    {
+      "ID": "437",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "GUSTAVO JAVIER ZARATE",
+      "CUIT": "20201930155",
+      "Email Club": "benitezkuki82@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "438",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "LUCA SALINAS MASIERO",
+      "CUIT": "20491025329",
+      "Email Club": "sanenacot@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "439",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "INSTITUTO NACIONAL DE SERVICIOS SOCIALES PARA JUBILADOS Y PENSIONADOS",
+      "CUIT": "30522763922",
+      "Email Club": "corazonesunidostolosa@gmail.com",
+      "Calle": "PERU 169",
+      "CP": "1067"
+    },
+    {
+      "ID": "440",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "DANIEL SEBASTIAN ZAMPINI",
+      "CUIT": "20266966300",
+      "Email Club": "danielzamp2016@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "441",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 13",
+      "CLUB": "GUTIERREZ THIAGO RAMON",
+      "CUIT": "20528080996",
+      "Email Club": "guttierrezfh1982@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "442",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "CLAUDIA MARISA ZABALA",
+      "CUIT": "27296445512",
+      "Email Club": "lamorochazabala@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "443",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 4",
+      "CLUB": "MARIA BELEN ORREGO",
+      "CUIT": "27342518759",
+      "Email Club": "orregomariabelen22@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "444",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "RAMIRO SEBASTIAN CACERES BENITEZ",
+      "CUIT": "20453969739",
+      "Email Club": "caceresramiro55@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "445",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 4",
+      "CLUB": "AGUSTIN FERNANDO CASTILLO HINOJOSA",
+      "CUIT": "20481779082",
+      "Email Club": "ac2689477@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "446",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 15",
+      "CLUB": "ALAN JOEL VEGA",
+      "CUIT": "20482525920",
+      "Email Club": "alanmukivane@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "447",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 4",
+      "CLUB": "YANINA DUARTE",
+      "CUIT": "27353714320",
+      "Email Club": "yanisanti04@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "448",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 8",
+      "CLUB": "ASOCIACION CIVIL  COMUNIDAD PROYECTO DE VIDA",
+      "CUIT": "30711930120",
+      "Email Club": "comunidadproyectodevida@gmail.com",
+      "Calle": "ESCALADA AV. 3037",
+      "CP": "1439"
+    },
+    {
+      "ID": "449",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "LEONARDO CAYETANO SEQUEIRA",
+      "CUIT": "20314489641",
+      "Email Club": "leosequeira428@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "450",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "ANGEL GABRIEL GOMEZ",
+      "CUIT": "20343761385",
+      "Email Club": "veronicamillicay74@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "451",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "MATIAS ALEJANDRO JARA",
+      "CUIT": "20336730768",
+      "Email Club": "clubsanmartin@yahoo.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "452",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 8",
+      "CLUB": "ASOCIACION CIVIL  NUEVA UNION SOLDATI CLUB SOCIAL Y DEPORTIVO",
+      "CUIT": "30717797724",
+      "Email Club": "dimasocristian84@gmail.com",
+      "Calle": "MARTINEZ CASTRO 2933",
+      "CP": "1437"
+    },
+    {
+      "ID": "453",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 4",
+      "CLUB": "CLUB BRISTOL",
+      "CUIT": "33702286749",
+      "Email Club": "clubbristoloficial@gmail.com",
+      "Calle": "LA RIOJA 1865",
+      "CP": "1244"
+    },
+    {
+      "ID": "454",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 4",
+      "CLUB": "ASOCIACION SOCIAL CULTURAL Y DEPORTIVA REAL ZAVALETA ASOCIACION CIVIL",
+      "CUIT": "30718038444",
+      "Email Club": "celeste.estefaniadiaz@gmail.com",
+      "Calle": "MARTINEZ CASTRO 1045",
+      "CP": "1407"
+    },
+    {
+      "ID": "455",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "AYLEN AGOSTINA AGUDO",
+      "CUIT": "27477229579",
+      "Email Club": "ahumadaramonaloreley@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "456",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 4",
+      "CLUB": "MARLENE LOPEZ",
+      "CUIT": "27946695470",
+      "Email Club": "marlen85lopez@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "457",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 4",
+      "CLUB": "TOBIAS LUIS ROJAS LOPEZ",
+      "CUIT": "20561754730",
+      "Email Club": "marlen85lopez@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "458",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 10",
+      "CLUB": "LUCIA DEL VALLE PAEZ",
+      "CUIT": "27374110433",
+      "Email Club": "paezlucii03@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "459",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "DYLAN MATIAS REDEL",
+      "CUIT": "20479496138",
+      "Email Club": "paolaromano525@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "460",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "ALAN GABRIEL MIRANDA",
+      "CUIT": "20471209121",
+      "Email Club": "paz519130@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "461",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 10",
+      "CLUB": "JULIAN IVAN DE JESUS",
+      "CUIT": "20505832834",
+      "Email Club": "vanesadejesus2022@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "462",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 7",
+      "CLUB": "ASOCIACION CIVIL BAIRES POOL CLUB",
+      "CUIT": "30717880478",
+      "Email Club": "fikatime@gmail.com",
+      "Calle": "LAMAS ANDRES 1163 PISO:9 DPTO:B",
+      "CP": "1416"
+    },
+    {
+      "ID": "463",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "EUGENIO VALENTIN FALCON",
+      "CUIT": "20535364649",
+      "Email Club": "leonelfigueredo2022@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "464",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "ANGELINA NICOLE ARIAS",
+      "CUIT": "27487700377",
+      "Email Club": "nicolearias961@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "465",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 10",
+      "CLUB": "ERICA SABRINA ZARATE GARAY",
+      "CUIT": "23367665084",
+      "Email Club": "sabrinagaray2016@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "466",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 4",
+      "CLUB": "VALERIA LORENA ISMAEL",
+      "CUIT": "27267181204",
+      "Email Club": "tanudiaz1@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "467",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "GUSTAVO LEONEL STEIMBREGER",
+      "CUIT": "20348875303",
+      "Email Club": "milagrosselenealus@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "468",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "RAMON ANTONIO TUAMA",
+      "CUIT": "20409827706",
+      "Email Club": "jennigonzalez560@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "469",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 15",
+      "CLUB": "LILIANA BEATRIZ GUTIERREZ",
+      "CUIT": "27381428430",
+      "Email Club": "Lg2376670@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "470",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 8",
+      "CLUB": "ASOCIACION DE SKATER UNIDOS DE ARGENTINA ASOCIACION CIVIL",
+      "CUIT": "30715337181",
+      "Email Club": "generodiversidadyddhh.fasb@gmail.com",
+      "Calle": "MATTEOTI GIACOMO 3410",
+      "CP": "1439"
+    },
+    {
+      "ID": "471",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 11",
+      "CLUB": "MAITENA AYELEN GONZALEZ",
+      "CUIT": "27499558703",
+      "Email Club": "tatiana.tiziano.maite@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "472",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 2",
+      "CLUB": "MARIO OSCAR STUDER",
+      "CUIT": "20215911552",
+      "Email Club": "mariostuder371@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "473",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 11",
+      "CLUB": "ASOCIACION MUTUAL ESPACIO ANTONIO CAFIERO",
+      "CUIT": "30717816532",
+      "Email Club": "chris.ameac@gmail.com",
+      "Calle": "CARACAS 2500",
+      "CP": "1416"
+    },
+    {
+      "ID": "474",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 5",
+      "CLUB": "FUNDACION DE LA CONFEDERACION ARGENTINA DE DEPORTES",
+      "CUIT": "30717432556",
+      "Email Club": "cadinstitucional@gmail.com",
+      "Calle": "TUCUMAN 326 PISO:1&#176;   T:1",
+      "CP": "1049"
+    },
+    {
+      "ID": "475",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 13",
+      "CLUB": "CARINA ELISABET VELOSO",
+      "CUIT": "27356927910",
+      "Email Club": "karinaveloso81@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "476",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 14",
+      "CLUB": "LISANDRO AGUSTIN FACIANO",
+      "CUIT": "20482841253",
+      "Email Club": "eliorellanao61@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "477",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "YESICA ALEJANDRA SANCHEZ",
+      "CUIT": "27335053171",
+      "Email Club": "yessiybetto2015@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "478",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "LIAN SANTINO RIOS",
+      "CUIT": "20543660850",
+      "Email Club": "santinodanielaroa@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "479",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "SILVANA JANET SUAREZ",
+      "CUIT": "27371033543",
+      "Email Club": "silsuarez67@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "480",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "ANAHI SOLEDAD CACERES",
+      "CUIT": "27346189865",
+      "Email Club": "soleanahi.0880@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "481",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 10",
+      "CLUB": "ROSA RAMONA ESCALANTE",
+      "CUIT": "27318394127",
+      "Email Club": "rosaescalante98@yahoo.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "482",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "VANESA ERICA IBARROLA",
+      "CUIT": "27333633987",
+      "Email Club": "vanesaibarrola560@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "483",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 6",
+      "CLUB": "THIAGO JOAQUIN AREVALO",
+      "CUIT": "20474120830",
+      "Email Club": "giselarevalo418@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "484",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 11",
+      "CLUB": "SANTACRUZ NU�EZ WALTER",
+      "CUIT": "23494156199",
+      "Email Club": "daianasantacruz2006@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "485",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "KAREN YAEL EMILCE GARAY",
+      "CUIT": "27382852988",
+      "Email Club": "karengaray494@gmail.com",
+      "Calle": "BO. Y.P.F. CASA NRO. 53     M:22",
+      "CP": "1005"
+    },
+    {
+      "ID": "486",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "VILLAR DALMA YAMILA",
+      "CUIT": "20428652348",
+      "Email Club": "villardalma70@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "487",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 10",
+      "CLUB": "ELENA AGOSTINA BUSSOLO",
+      "CUIT": "27473821325",
+      "Email Club": "27agostina27@gmial.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "488",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "FLORENCIA MICAELA SAN ROMAN",
+      "CUIT": "27418453732",
+      "Email Club": "fsanroman408@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "489",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 8",
+      "CLUB": "MARTA DAHIANA MACIEL CA�ETE",
+      "CUIT": "27937511901",
+      "Email Club": "dahianamaciel@gmail.com",
+      "Calle": "URIBURU N. GRAL. 5707 PISO:10 DPTO:B  T:112",
+      "CP": "1439"
+    },
+    {
+      "ID": "490",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 13",
+      "CLUB": "SOFIA ANTONELLA VILLARRUEL",
+      "CUIT": "27372419038",
+      "Email Club": "Andy_la12_CABJ@hotmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "491",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "BRUNO ELISEO ACEVEDO",
+      "CUIT": "20545243572",
+      "Email Club": "julianatoupa@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "492",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 13",
+      "CLUB": "ASOCIACION ARGENTINA DE SQUASH RACKETS",
+      "CUIT": "30663395536",
+      "Email Club": "andresnieto62@hotmail.com",
+      "Calle": "CABILDO AV. 450 PISO:3",
+      "CP": "1426"
+    },
+    {
+      "ID": "493",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 8",
+      "CLUB": "ASOCIACION CIVIL CLUB ATLETICO COLUMNA VERTEBRAL DE VILLA LUGANO",
+      "CUIT": "30716587262",
+      "Email Club": "clubatleticocolumnavertebral@gmail.com",
+      "Calle": "BARROS PAZOS JOSE 5544",
+      "CP": "1439"
+    },
+    {
+      "ID": "494",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "LINDA ELIZABETH GONZALEZ",
+      "CUIT": "27386290216",
+      "Email Club": "linda123camila.tizi@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "495",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "LETICIA LUJAN VAZQUEZ VERA",
+      "CUIT": "27951515561",
+      "Email Club": "vasquezleticia680@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "496",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 12",
+      "CLUB": "GOMEZ DANIELA ALEJANDRA",
+      "CUIT": "27483566897",
+      "Email Club": "Dg9949944@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "497",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "PAMELA NEREA TOLEDO",
+      "CUIT": "27371936470",
+      "Email Club": "matiasvalentina12345@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "498",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 10",
+      "CLUB": "LEONEL MAXIMILIANO PATTI",
+      "CUIT": "20436487895",
+      "Email Club": "leopatti569@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "499",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 11",
+      "CLUB": "GORVALAN NANCY ADRIANA",
+      "CUIT": "27373846487",
+      "Email Club": "nancygorvalan27@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "500",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "MARIA CELESTE LANA",
+      "CUIT": "27411999950",
+      "Email Club": "morajazminlana@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "501",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 2",
+      "CLUB": "PAMELA ADRIANA GIMENEZ",
+      "CUIT": "27470203221",
+      "Email Club": "pamelagimenez0808@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "502",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 7",
+      "CLUB": "LAUTARO LEONEL NAZARENO LLANOS",
+      "CUIT": "20480314892",
+      "Email Club": "lautaroleonelnazarenol@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "503",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 6",
+      "CLUB": "TOMAS EZEQUIEL VALENTIN ROMERO",
+      "CUIT": "20477873481",
+      "Email Club": "lauraeschurruarin34@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "504",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "AZUL JAZMIN SOSA",
+      "CUIT": "27513643417",
+      "Email Club": "tamarasosa.cba@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "505",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 13",
+      "CLUB": "EFYDCOM S A",
+      "CUIT": "30624821072",
+      "Email Club": "sangiorgisabrina@gmail.com",
+      "Calle": "DIAZ CNEL. AV. 2351 PISO:04 DPTO:A",
+      "CP": "1425"
+    },
+    {
+      "ID": "506",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 7",
+      "CLUB": "NOELIA GIMENA ALEJO MAMANI",
+      "CUIT": "27384246171",
+      "Email Club": "gimenaalejo631@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "507",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "ANGEL GABRIEL BENITEZ",
+      "CUIT": "20407641575",
+      "Email Club": "gabybenitezok22@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "508",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "CELESTE LUDMILA CORNEJO LEIVA",
+      "CUIT": "27482710250",
+      "Email Club": "celestecornejo792@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "509",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "NOEMI TORRICO VARGAS",
+      "CUIT": "27389897251",
+      "Email Club": "noemitorrico71v@gmail.com",
+      "Calle": "VILLA 31  CASA NRO. 2     M:12",
+      "CP": "1004"
+    },
+    {
+      "ID": "510",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 10",
+      "CLUB": "BANCO DE LA PROVINCIA DE BUENOS AIRES",
+      "CUIT": "33999242109",
+      "Email Club": "alexisngarcia2007@gmail.com",
+      "Calle": "GUANAHANI 580 PISO:3 DPTO:1504 S:A",
+      "CP": "1274"
+    },
+    {
+      "ID": "511",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 10",
+      "CLUB": "PRIMERA DAMA DEL PUEBLO S. ASOC.",
+      "CUIT": "30717541592",
+      "Email Club": "admiprimeradama22@gmail.com",
+      "Calle": "MITRE BARTOLOME 1934",
+      "CP": "1039"
+    },
+    {
+      "ID": "512",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 8",
+      "CLUB": "ARACELY ANA ROSARIO HUALLPA",
+      "CUIT": "27946579853",
+      "Email Club": "aracelirosarioo34@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "513",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "ORIANA CAMILA ORNELLA CARRIZO",
+      "CUIT": "27544067791",
+      "Email Club": "ericacarrizo337@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "514",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "JOANA BEATRIZ BUFI",
+      "CUIT": "27383504312",
+      "Email Club": "johanabufi@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "515",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 4",
+      "CLUB": "GONZALEZ URUNAGA MARIA LOURDES",
+      "CUIT": "27946714033",
+      "Email Club": "lourdesur02@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "516",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "DEBORA NOEMI MENDEZ",
+      "CUIT": "27398157988",
+      "Email Club": "deboranoemimendez02@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "517",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 8",
+      "CLUB": "CLUB SOCIAL CULTURAL Y DEPORTIVO \"JUVENTUD UNIDA DE VILLA SOLDATI\"",
+      "CUIT": "30707326545",
+      "Email Club": "hectorschisano@hotmail.com",
+      "Calle": "RABANAL FRANCISCO I. 2821",
+      "CP": "1437"
+    },
+    {
+      "ID": "518",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 9",
+      "CLUB": "ACEVEDO GOMEZ NATANAEL",
+      "CUIT": "20498794727",
+      "Email Club": "ng9184637@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "519",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "JUAN MARCELO CASCO",
+      "CUIT": "20476143331",
+      "Email Club": "juanmarcelocasco0@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "520",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 4",
+      "CLUB": "AGUSTIN ALEJO GAMBERA SALVATORI",
+      "CUIT": "23456096999",
+      "Email Club": "clubbarriomaritimo@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "521",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 4",
+      "CLUB": "KEVIN NAHUEL FERNANDEZ",
+      "CUIT": "20448908497",
+      "Email Club": "clubbarriomaritimo@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "522",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "SARA LAURA MARTINEZ ASPAJO",
+      "CUIT": "23956340454",
+      "Email Club": "Saralaumartine17@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "523",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 10",
+      "CLUB": "LAURA PATRICIA VEGA",
+      "CUIT": "27362066927",
+      "Email Club": "laurave343@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "524",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "LEONEL LUCIANO ROMERO",
+      "CUIT": "20370662917",
+      "Email Club": "naiutizilosamo.123@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "525",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 5",
+      "CLUB": "SADE SOFHIA CHOQUE ZAMUDIO",
+      "CUIT": "27490925177",
+      "Email Club": "ysabeljhoshua@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "526",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "EMILIA BLANCA CERDAN VILLALBA",
+      "CUIT": "27947242607",
+      "Email Club": "Emiliacerdan1987@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "527",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "CIELO GUADALUPE ZARZA",
+      "CUIT": "23398173724",
+      "Email Club": "cieloguadalupezarza506@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "528",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 7",
+      "CLUB": "VILMA TATIANA FLORES CAMPOS",
+      "CUIT": "27950083897",
+      "Email Club": "tatianaflores.jc2011@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "529",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 11",
+      "CLUB": "MAYRA ALEJANDRA AREDES",
+      "CUIT": "27380235140",
+      "Email Club": "aredesmayraalejandra29@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "530",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 3",
+      "CLUB": "YANET MILAGROS ALBORNOZ",
+      "CUIT": "27423249493",
+      "Email Club": "milagrosbordignon@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "531",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 10",
+      "CLUB": "MARISA NOEMI ARAUJO",
+      "CUIT": "27413059882",
+      "Email Club": "marisaaraujo107@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "532",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 2",
+      "CLUB": "AGUSTINA EDIT VEGA",
+      "CUIT": "23406552454",
+      "Email Club": "aguseditvega19@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "533",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 8",
+      "CLUB": "ASOCIACION 20 DE NOVIEMBRE, DE AYUDA COMUNITARIA",
+      "CUIT": "30717284670",
+      "Email Club": "alejandrodonadio@hotmail.com",
+      "Calle": "BOGOTA 342 PISO:1 DPTO:B",
+      "CP": "1405"
+    },
+    {
+      "ID": "534",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 8",
+      "CLUB": "RODRIGO NICOLAS MUGIONE",
+      "CUIT": "20329786723",
+      "Email Club": "rodrigomugione@yahoo.com.ar",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "535",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "KAREN AYLEN TOLEDO",
+      "CUIT": "27414836629",
+      "Email Club": "karenaylentoledl@gamil.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "536",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 7",
+      "CLUB": "ASOCIACION CIVIL CLUB ARGENTINO DE ALADELTA",
+      "CUIT": "30716680742",
+      "Email Club": "clubargentinodealadelta@gmail.com",
+      "Calle": "PERON EVA AV. 1071 PISO:10 DPTO:C",
+      "CP": "1424"
+    },
+    {
+      "ID": "537",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 8",
+      "CLUB": "ASOCIACION CLUB SOCIAL Y DEPORTIVO PAPA FRANCISCO",
+      "CUIT": "30717539865",
+      "Email Club": "damianreynoso05@gmail.com",
+      "Calle": "ACOSTA MARIANO 3501 PISO:0 DPTO:0 S:0 T:0 M:0",
+      "CP": "1437"
+    },
+    {
+      "ID": "538",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 8",
+      "CLUB": "MIRELLA SANTOS GUEVARA",
+      "CUIT": "27940069969",
+      "Email Club": "miresantos1977@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "539",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "ANAHI MAGDALENA MENDOZA",
+      "CUIT": "27395814236",
+      "Email Club": "mendozaanahy438@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "540",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "MARIANO JOAQUIN FLORES",
+      "CUIT": "20400223816",
+      "Email Club": "floresjoaco48@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "541",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 11",
+      "CLUB": "IVAN ORLANDO BENITEZ",
+      "CUIT": "20522481492",
+      "Email Club": "bmarisel03@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "542",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "SONIA PATRICIA CORREA",
+      "CUIT": "27387785340",
+      "Email Club": "Sc386848@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "543",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "NELLY DEL VALLE CONTI",
+      "CUIT": "23316680224",
+      "Email Club": "nellyconti321@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "544",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 4",
+      "CLUB": "CLUB SOCIAL, CULTURAL Y DEPORTIVO \"BOHEMIOS\"",
+      "CUIT": "30661506845",
+      "Email Club": "bohemioscscd@gmail.com",
+      "Calle": "NECOCHEA 948",
+      "CP": "1158"
+    },
+    {
+      "ID": "545",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "JULIO ANGEL GALEANO PEDROZO",
+      "CUIT": "20945411172",
+      "Email Club": "galeanotopa@hgmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "546",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 15",
+      "CLUB": "ASOCIACION CIVIL ARGENTINA DE DODGEBALL",
+      "CUIT": "30717383709",
+      "Email Club": "arg.dodgeball@gmail.com",
+      "Calle": "AVALOS 1036",
+      "CP": "1427"
+    },
+    {
+      "ID": "547",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 12",
+      "CLUB": "MIGUEL ANGEL VARGAS",
+      "CUIT": "20420983094",
+      "Email Club": "dv3782610000@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "548",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "SOL YANET LEGUIZAMON",
+      "CUIT": "27443135184",
+      "Email Club": "cotii.roblees10@hotmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "549",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 7",
+      "CLUB": "GARABITO ESTRADA ALISON",
+      "CUIT": "27419185782",
+      "Email Club": "alisongarabitoe12@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "550",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 11",
+      "CLUB": "RAMIREZ MAXIMILIANO ALEJANDRO",
+      "CUIT": "20522370402",
+      "Email Club": "maximilianomore22@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "551",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 8",
+      "CLUB": "JUANA OYUKI CAYOJA URIONA",
+      "CUIT": "23946380954",
+      "Email Club": "oyuki.cayoja88@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "552",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 12",
+      "CLUB": "MAITE AYLEN BRAVO",
+      "CUIT": "27459617987",
+      "Email Club": "bravomaite11@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "553",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 8",
+      "CLUB": "CAMILA MARIA DE LOS MILAGROS DIB ISAHAC",
+      "CUIT": "27402680003",
+      "Email Club": "Dibcamila433@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "554",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 10",
+      "CLUB": "PATRICIA RAMOS BENITEZ",
+      "CUIT": "27956205455",
+      "Email Club": "pr4377167@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "555",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "ABREGU ZAHIRA NAEL",
+      "CUIT": "27502235139",
+      "Email Club": "mariauzal85@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "556",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 11",
+      "CLUB": "ANDREA GISEL CORNEJO",
+      "CUIT": "27357368273",
+      "Email Club": "cornejoandrea835@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "557",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 4",
+      "CLUB": "AXEL OMAR YUCRA",
+      "CUIT": "20477567321",
+      "Email Club": "axely379@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "558",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 11",
+      "CLUB": "MALENA BEATRIZ PERALTA BENITEZ",
+      "CUIT": "27471176945",
+      "Email Club": "peraltalopez27083@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "559",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "CARRIZO DAVID MARIANO",
+      "CUIT": "20530106471",
+      "Email Club": "karrizojose50@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "560",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 9",
+      "CLUB": "AXEL JOEL LEIVA",
+      "CUIT": "20496831889",
+      "Email Club": "leivaaxel845@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "561",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "CABRERA FRANCO NAHUEL",
+      "CUIT": "20485470124",
+      "Email Club": "nahuelcabrera854@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "562",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 5",
+      "CLUB": "CAROLINA DEL MILAGRO MACIAS",
+      "CUIT": "23340945964",
+      "Email Club": "karomacias017@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "563",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 9",
+      "CLUB": "MARCELO DANIEL MARQUEZ",
+      "CUIT": "20321800565",
+      "Email Club": "adrianabelenboschman@gmail.com.ar",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "564",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "TORRES SANCHEZ VALENTINA AYLEN",
+      "CUIT": "27520738997",
+      "Email Club": "sanchezyesica37@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "565",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 10",
+      "CLUB": "GUIDO ALMIRON MI�IO",
+      "CUIT": "20945349698",
+      "Email Club": "guido8043@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "566",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 8",
+      "CLUB": "CRISTINA DANIELA DUARTE CABALLERO",
+      "CUIT": "27949800380",
+      "Email Club": "cristinaduartecaballero3@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "567",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 7",
+      "CLUB": "HELEN VERONICA LAVADENZ MENDUI�A",
+      "CUIT": "27928478330",
+      "Email Club": "helenvero35@hotmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "568",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "KAREN ESTEFANIA DIAZ",
+      "CUIT": "27462594041",
+      "Email Club": "kd375590@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "569",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 15",
+      "CLUB": "SILVIA CLAUDIA SALAS",
+      "CUIT": "27279828343",
+      "Email Club": "silviasalaa517@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "570",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "VEGA FERREIRA ROQUE AGUSTIN",
+      "CUIT": "20473088887",
+      "Email Club": "ferreiraalicia02@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "571",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "CONFERENCIA EPISCOPAL ARGENTINA",
+      "CUIT": "30517312904",
+      "Email Club": "uniondeclubesparroquiales@gmail.com",
+      "Calle": "SUIPACHA 1034",
+      "CP": "1008"
+    },
+    {
+      "ID": "572",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 4",
+      "CLUB": "ALMA ABIGAIL RAMIREZ VENKHINS",
+      "CUIT": "27474166355",
+      "Email Club": "almaramirezvenkhins@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "573",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 10",
+      "CLUB": "JOAQUIN ELIAS QUIROGA NU�EZ",
+      "CUIT": "20505467168",
+      "Email Club": "katynoguera482@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "574",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 11",
+      "CLUB": "DILAN DAVID LAGOS",
+      "CUIT": "20508523034",
+      "Email Club": "demianymami12345@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "575",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 7",
+      "CLUB": "FLORES SALDIVAR OSHIN SHELLEY",
+      "CUIT": "27947787077",
+      "Email Club": "floresoshin@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "576",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "MARIA ELISA CARRERAS",
+      "CUIT": "27324702933",
+      "Email Club": "tateyemi123@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "577",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "MARTA NATALIA ROSA SORIA GOMEZ",
+      "CUIT": "27410145419",
+      "Email Club": "sorianatalia232@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "578",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "DAMIAN MIGUEL ANGEL SAN MARTIN",
+      "CUIT": "20314394217",
+      "Email Club": "indiraiker.ilsm@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "579",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 11",
+      "CLUB": "MARIO RUBEN SILVA",
+      "CUIT": "20244755721",
+      "Email Club": "georginadiaz573@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "580",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "JOSE EZEQUIEL ALVAREZ",
+      "CUIT": "20339588946",
+      "Email Club": "alvarezezequiel487@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "581",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 4",
+      "CLUB": "JESICA PAMELA RODAS SANABRIA",
+      "CUIT": "27485250765",
+      "Email Club": "Pamelarodas59@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "582",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 3",
+      "CLUB": "ALDO JESUS STELLA",
+      "CUIT": "20215691528",
+      "Email Club": "stellaaldo2@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "583",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 10",
+      "CLUB": "VICTOR DANIEL MAC INTYRE",
+      "CUIT": "20363196463",
+      "Email Club": "victordanielmacintyreromero@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "584",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 15",
+      "CLUB": "FIDEICOMISO DE RECONSTRUCCION BANFILE�A",
+      "CUIT": "30714052760",
+      "Email Club": "bernibazan25@gmail.com",
+      "Calle": "CERRITO 866 PISO:6",
+      "CP": "1010"
+    },
+    {
+      "ID": "585",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "ASOCIACION DEL FUTBOL ARGENTINO",
+      "CUIT": "30527450701",
+      "Email Club": "programas@afa.org.ar",
+      "Calle": "VIAMONTE 1366",
+      "CP": "1053"
+    },
+    {
+      "ID": "586",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 8",
+      "CLUB": "ANGELES DAIANA GOMEZ PEREYRA",
+      "CUIT": "27448808993",
+      "Email Club": "ilovetkditf7@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "587",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 3",
+      "CLUB": "DEBORA GISELE MONTIEL",
+      "CUIT": "27366175879",
+      "Email Club": "giselmartim@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "588",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 4",
+      "CLUB": "ASOCIACION CIVIL CENTRO CULTURAL Y BIBLIOTECA POPULAR EL SUE�ERO PARA LA CAPACITACION DE LA CULTURA POPULAR",
+      "CUIT": "33711509009",
+      "Email Club": "info@elsueniero.org.ar",
+      "Calle": "LIBERTI TOMAS 1133",
+      "CP": "1165"
+    },
+    {
+      "ID": "589",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 15",
+      "CLUB": "PALACIOS DALMA CELESTE",
+      "CUIT": "27374221065",
+      "Email Club": "palaciosdalma93@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "590",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 4",
+      "CLUB": "EDUARDO JOAQUIN CAMPEAN UBILLUS",
+      "CUIT": "20471720136",
+      "Email Club": "joaquin1campean@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "591",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "PAGURA MIA JULIANA",
+      "CUIT": "27505454656",
+      "Email Club": "anabellapagura91@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "592",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "IBALO MARIANA ARACELI",
+      "CUIT": "27529265188",
+      "Email Club": "anabellapagura91@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "593",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "IBALO CLAUDIO OSCAR",
+      "CUIT": "20540520705",
+      "Email Club": "anabellapagura91@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "594",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "AYLEN VALERIA IBALO",
+      "CUIT": "27514786513",
+      "Email Club": "anabellapagura91@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "595",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 2",
+      "CLUB": "DIEGO JULIAN ZARATE",
+      "CUIT": "20443346016",
+      "Email Club": "Julianzarate397@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "596",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 13",
+      "CLUB": "CESAR GABRIEL SANCHEZ",
+      "CUIT": "20503523729",
+      "Email Club": "cesargabriel7789xd@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "597",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 15",
+      "CLUB": "JORGE OSCAR GARAGLIA",
+      "CUIT": "20288601608",
+      "Email Club": "garagliajorge@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "598",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "LA COCHA",
+      "CLUB": "",
+      "CUIT": "20314288948",
+      "Email Club": "yago_14_85@hotmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "599",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 11",
+      "CLUB": "WILLIAM RONALDO LOPEZ MARTINEZ",
+      "CUIT": "20956430330",
+      "Email Club": "lopezwilian791@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "600",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "ANGEL CLAUS ILLANES LEYTON",
+      "CUIT": "20478154209",
+      "Email Club": "angelillanes875@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "601",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 14",
+      "CLUB": "ASOCIACION AIKIDO AIKIKAI ARGENTINA",
+      "CUIT": "30715513060",
+      "Email Club": "faaluisguz@gmail.com",
+      "Calle": "FRAY J. SANTAMARIA DE ORO 2254",
+      "CP": "1425"
+    },
+    {
+      "ID": "602",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 5",
+      "CLUB": "BALCASA JULIO CESAR",
+      "CUIT": "20463835811",
+      "Email Club": "balcasaadriana55@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "603",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 5",
+      "CLUB": "LIBERO CLUB ASOCIACION CIVIL",
+      "CUIT": "30717666964",
+      "Email Club": "LIBEROCLUB2019@GMAIL.COM",
+      "Calle": "FALCON RAMON L CNEL 4171",
+      "CP": "1407"
+    },
+    {
+      "ID": "604",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "ALDO NELSON I PEREIRA",
+      "CUIT": "20219776196",
+      "Email Club": "taeboconaldo@hotmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "605",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 7",
+      "CLUB": "LUCY PAOLA MALDONADO MATOS",
+      "CUIT": "23940867304",
+      "Email Club": "Ayeleandayi3@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "606",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "DE BORTOLI JULIAN ANDRES",
+      "CUIT": "20364951370",
+      "Email Club": "Juliandebortoli44@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "607",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "LUIS ALFREDO ROCHA",
+      "CUIT": "20321108270",
+      "Email Club": "club_barriojardin@hotmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "608",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "IRIS ESMERALDA ALBARRACIN",
+      "CUIT": "27435411903",
+      "Email Club": "irisalbarracin152@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "609",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "",
+      "CLUB": "",
+      "CUIT": "BQMTRAPRLTNDWKUPHPPDFJQYPEX",
+      "Email Club": "xAjCCF.qjmqcmq@chiffon.fun",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "610",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "",
+      "CLUB": "",
+      "CUIT": "UOEMVLFBAOORFDXVA",
+      "Email Club": "vjalten@hotmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "611",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "",
+      "CLUB": "",
+      "CUIT": "NEIVIBDUHEQPCEYHTJOKNN",
+      "Email Club": "phil.howkins@ntlworld.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "612",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "",
+      "CLUB": "",
+      "CUIT": "MEXWXWPWTCQBPOERJJUPJLLDALKNR",
+      "Email Club": "alali.omar@hotmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "613",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "",
+      "CLUB": "",
+      "CUIT": "SWCYJXWHOTERVIL",
+      "Email Club": "lcarlino@carlinocpa.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "614",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "",
+      "CLUB": "",
+      "CUIT": "UWYFCORUKSDCZJOYBAELP",
+      "Email Club": "adebeer@hexagonfire.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "615",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "",
+      "CLUB": "",
+      "CUIT": "FXMXHUQARCOSBSUYIBVLJ",
+      "Email Club": "craig.brown@south-wales.police.co.uk",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "616",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "",
+      "CLUB": "",
+      "CUIT": "JBSJJWNRMWHOKRDIRSKPIWD",
+      "Email Club": "dave11meyer@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "617",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "",
+      "CLUB": "",
+      "CUIT": "HPJJWEPRCKDTEFAJEQLINLSJBCD",
+      "Email Club": "reaping_reapers@yahoo.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "618",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "",
+      "CLUB": "",
+      "CUIT": "AURBJNORKCRIOFFRLCAVTLJCMTZ",
+      "Email Club": "duboisrl@mukilteo.wednet.edu",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "619",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "",
+      "CLUB": "",
+      "CUIT": "QIBABTCJSAMDNYRSBSQMFJS",
+      "Email Club": "pjmcevoy@comcast.net",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "620",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "",
+      "CLUB": "",
+      "CUIT": "QVNBRAJCRSQAFIJBRBX",
+      "Email Club": "craig.brown@south-wales.police.co.uk",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "621",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "MARTA GABRIELA RODRIGUEZ",
+      "CUIT": "27230618343",
+      "Email Club": "emirmartina0@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "622",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 11",
+      "CLUB": "ASOCIACION CLUB SOCIAL Y DEPORTIVO JUSTICIALISTA",
+      "CUIT": "30718129687",
+      "Email Club": "csdjusticialista@gmail.com",
+      "Calle": "GONZALEZ JOAQUIN V. 1714  DPTO:6",
+      "CP": "1407"
+    },
+    {
+      "ID": "623",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "",
+      "CLUB": "",
+      "CUIT": "QJLDFKDTLFQBELOTASHJQWA",
+      "Email Club": "sarascasey@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "624",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "",
+      "CLUB": "",
+      "CUIT": "DRXKPWFSADZYHRICL",
+      "Email Club": "infamouspat@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "625",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "",
+      "CLUB": "",
+      "CUIT": "LRIXWPNWJUEPVCMJLOESU",
+      "Email Club": "beth.mclaughlin@renaissancehotels.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "626",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 5",
+      "CLUB": "NEHEMIAS NATANAEL SANCHEZ IBARRA",
+      "CUIT": "20480213158",
+      "Email Club": "ricasanchez2021@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "627",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 5",
+      "CLUB": "NUEVO CLUB DE EMPLEADOS B.B.V. BANCO FRANCES",
+      "CUIT": "30561193254",
+      "Email Club": "clubdeempleadosbbvfrances@gmail.com",
+      "Calle": "REP. BOLIVARIANA DE VENEZUELA 540  DPTO:8",
+      "CP": "1095"
+    },
+    {
+      "ID": "628",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "MARIANA LUISA PASTORENZI",
+      "CUIT": "27220765828",
+      "Email Club": "marianagalvan.com@gmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "629",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 7",
+      "CLUB": "NANCY ELIZABETH GOMEZ",
+      "CUIT": "27305262132",
+      "Email Club": "fonema_83@hotmail.com",
+      "Calle": "RIO DE JANEIRO 779 PISO:1 DPTO:A",
+      "CP": "1405"
+    },
+    {
+      "ID": "630",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "RENE OSCAR FARFAN",
+      "CUIT": "20259706573",
+      "Email Club": "reneyupanquifarfan@hotmail.com",
+      "Calle": "",
+      "CP": ""
+    },
+    {
+      "ID": "631",
+      "PROVINCIA": "CIUDAD AUTONOMA DE BUENOS AIRES",
+      "MUNICIPIO": "COMUNA 1",
+      "CLUB": "SANTINO ARIEL HERRERA",
+      "CUIT": "20570216172",
+      "Email Club": "herreraaldana584@gmail.com",
+      "Calle": "",
+      "CP": ""
+    }
+  ]
